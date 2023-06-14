@@ -26,6 +26,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Dang J, Tong J, Golder A, et al.* [[Paper]](https://www.researchsquare.com/article/rs-2910088/v1)
 
+* [**HCS 2023**] [**Paillier**] PHEP: Paillier Homomorphic Encryption Processors for Privacy Preserving Applications in Cloud Computing.
+
+  >*Guiming Shi, Yi Li,Kaisheng Ma, et al.* [[Paper]](https://www.zhanhongtan.com/publication/hotchip23b/)
+
 * [**DATE 2021**] [**BFV**] Real-time Private Membership Test using Homomorphic Encryption.
 
   >*Eduardo Chielle, Homer Gamil, Michail Maniatakos.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)

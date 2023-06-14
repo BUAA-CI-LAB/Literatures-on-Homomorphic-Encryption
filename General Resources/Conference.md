@@ -42,6 +42,8 @@
 
 - ISPASS (IEEE International Symposium on Performance Analysis of Systems and Software)
 
+- HCS (Proceedings of IEEE Hot Chips Symposium)
+
   
 
 ### **Information Security(Mainly Applicable)**

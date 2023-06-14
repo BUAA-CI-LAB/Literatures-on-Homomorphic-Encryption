@@ -69,6 +69,7 @@ Homomorphic Encryption acceleration papers in a chronological order.
 * [**DDECS 2023**] [**FHEW**] Hardware Acceleration of FHEW. *Jonas Bertels, Ingrid Verbauwhede et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3621.pdf)
 * [**HOST 2023**] [**FHE**] FHE-Booster: Accelerating Fully Homomorphic Execution with Fine-tuned Bootstrapping Scheduling. *White, T, Tsoutsos, N. G.et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10132930)
 * [**ISPASS 2023**] [**TFHE**] PyTFHE: An End-to-End Compilation and Execution Framework for Fully Homomorphic Encryption Applications. *Jiaao Ma, Lisa Wu Wills et, al.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
+* [**HCS 2023**] [**Paillier**] PHEP: Paillier Homomorphic Encryption Processors for Privacy Preserving Applications in Cloud Computing. *Guiming Shi, Yi Li,Kaisheng Ma, et al.* [[Paper]](https://www.zhanhongtan.com/publication/hotchip23b/)
 
 ### **2022**
 
