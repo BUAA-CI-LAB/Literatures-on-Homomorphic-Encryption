@@ -52,7 +52,15 @@ Homomorphic Encryption acceleration papers in a chronological order.
 ---
 ## **Conference**
 
+### **2023**
+
+* [**HPCA 2023**] [**CKKS**] FxHENN: FPGA-based acceleration framework for homomorphic encrypted CNN inference *Yilan Zhu Lei Ju et al.* [[Paper]](https://ieeexplore.ieee.org/document/10071133/)
+* [**HPCA 2023**] [**CKKS**] FAB:An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption *Rashmi Agrawal et al.* [[Paper]](https://arxiv.org/abs/2207.11872)
+* [**HPCA 2023**] [**CKKS**] TensorFHE: Achieving Practical Computation on Encrypted Data using GPGPU. *Shengyu Fan,Mingzhe Zhang et al.* [[Paper]](https://arxiv.org/abs/2212.14191)
+* [**HPCA 2023**] [**CKKS**] Poseidon: Practical Homomorphic Encryption Accelerator. *Yinghao Yang Luhang et al.* [[Paper]](https://mingzhe-zhang.github.io/paper/Poseidon-HPCA2023.pdf)
+
 ### **2022**
+
 * [**ISSCC 2022**] [**CKKS**] A 28nm 48KOPS 3.4J Op Agile Crypto-Processor for Post Quantum Cryptograph on Multi Mathematical Problems. *Zhu Y, Wei S, Liu L et al.* [[Paper]](https://ieeexplore.ieee.org/document/9731783)
 * [**ISCA 2022**] [**CKKS**] BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption. *Kim S, Kim J, Ahn Jung et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527415)
 * [**ISCA 2022**] [**FHE**] CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data. *Samardzic N, Feldmann A, Krastev A, et al.* [[Paper]](https://people.csail.mit.edu/devadas/pubs/craterlake.pdf)

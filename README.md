@@ -296,6 +296,18 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Yilan Zhu Lei Ju et al.* [[Paper]](https://ieeexplore.ieee.org/document/10071133/)
   
+* [**HPCA 2023**] [**CKKS**] FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption
+  
+  >*Rashmi Agrawal et al.* [[Paper]](https://arxiv.org/abs/2207.11872)
+  
+* [**HPCA 2023**] [**CKKS**] TensorFHE: Achieving Practical Computation on Encrypted Data using GPGPU.
+  
+  >*Shengyu Fan,Mingzhe Zhang et al.* [[Paper]](https://arxiv.org/abs/2212.14191)
+  
+* [**HPCA 2023**] [**CKKS**] Poseidon: Practical Homomorphic Encryption Accelerator.
+  
+  >*Yinghao Yang Luhang et al.* [[Paper]](https://mingzhe-zhang.github.io/paper/Poseidon-HPCA2023.pdf)
+  
 * [**HPCA 2019**] [**BFV**] FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.
   
   >*Sujoy S, Furkan, T, Kimmo J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/8675244)
