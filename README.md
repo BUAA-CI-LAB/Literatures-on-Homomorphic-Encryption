@@ -292,6 +292,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ## **Hardware Acceleration** for Homomorphic Encryption
 
+* [**HPCA 2023**] [**CKKS**] FxHENN: FPGA-based acceleration framework for homomorphic encrypted CNN inference
+  
+  >*Yilan Zhu Lei Ju et al.* [[Paper]](https://ieeexplore.ieee.org/document/10071133/)
+  
 * [**HPCA 2019**] [**BFV**] FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.
   
   >*Sujoy S, Furkan, T, Kimmo J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/8675244)
