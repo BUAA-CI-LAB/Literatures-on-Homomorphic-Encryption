@@ -3,7 +3,7 @@
 ### [1] [Openmined Blog](https://blog.openmined.org/tag/homomorphic-encryption/)
 
 > - **Introduction:**  
->   OpenMined is an open-source community focused on researching, developing, and elevating tools for secure, privacy-preserving, value-aligned artificial intelligence. There are many blogs related to privacy computing technology such as Homomorphic Encryption.
+>   OpenMined is an open-source community focused on researching, developing, and elevating tools for secure, privacy-preserving, value-aligned artificial intelligence. There are many blogs related to privacy computing technology such as Homomorphic Encryptions.
 
 ### [2] [Pam Blog](https://www.cnblogs.com/pam-sh/)
 
