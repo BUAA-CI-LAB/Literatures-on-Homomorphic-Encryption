@@ -18,14 +18,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ## **Algorithmic Acceleration** for Homomorphic Encryption
 
 
-* [**DAC 2020**] [**TFHE**] ROMEO: Conversion and Evaluation of HDL Designs in the Encrypted Domain.
-
-  >*Charles Gouert, Nektarios Georgios Tsoutsos.* [[Paper]](https://ieeexplore.ieee.org/document/9218579/)
-
-* [**HPCA 2021**] [**BFV**] Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference.
-
-  >*Reagen B, Choi W, Brooks D, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9407118)
-
 * [**DATE 2021**] [**BFV**] Real-time Private Membership Test using Homomorphic Encryption.
 
   >*Eduardo Chielle, Homer Gamil, Michail Maniatakos.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
@@ -188,6 +180,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ## **System Designs** for Homomorphic Encryption
 
 
+* [**ISCA 2022**] [**CKKS**] Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques. 
+
+  >*Gong Z, Ji H, Yao Y, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527403)
+
 * [**ISSCC 2022**] [**CKKS**] A 28nm 48KOPS 3.4J Op Agile Crypto-Processor for Post Quantum Cryptograph on Multi Mathematical Problems.
 
   >*Zhu Y, Wei S, Liu L et al.* [[Paper]](https://ieeexplore.ieee.org/document/9731783)
@@ -204,17 +200,9 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Saransh Gupta, Tajana Simunic Rosing* [[Paper]](https://ieeexplore.ieee.org/document/9586285/)
 
-* [**ISCA 2022**] [**CKKS**] Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques. 
-
-  >*Gong Z, Ji H, Yao Y, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527403)
-
 * [**DATE 2022**] [**CKKS**] coxHE: A software-hardware co-design framework for FPGA acceleration of homomorphic computation.
 
   >*Han M, Zhu Y, Lei Ju, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9774559)
-
-* [**MICRO 2022**] [**CKKS**] ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse.
-
-  >*Kim J, Lee G, Ahn J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9923889/)
 
 * [**ESSCIRC 2022**] [**PQC**] Configurable Energy-Efficient Lattice-Based PostQuantum Cryptography Processor for IoT Devices.
 
@@ -228,14 +216,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Ahmad B, Bharadwaj V, Chan M, et al.* [[Paper]](https://www.researchgate.net/profile/Ahmad-Al-Badawi/publication/346706228_High-Performance_FV_Somewhat_Homomorphic_Encryption_on_GPUs_An_Implementation_using_CUDA/links/6131df9238818c2eaf7ae5c9/High-Performance-FV-Somewhat-Homomorphic-Encryption-on-GPUs-An-Implementation-using-CUDA.pdf) 
 
-* [**ISCAS 2020**] [**AES**] Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor.
-
-  >*Utsav Banerjee, Siddharth Das, Anantha P. Chandrakasan* [[Paper]](https://ieeexplore.ieee.org/document/9180550)
-
-* [**ISCAS 2020**] [**BGV**] VLSI Architecture of Polynomial Multiplication for BGV Fully Homomorphic Encryption.
-
-  >*Hsu H and Shieh M.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181192)
-
 * [**IISWC 2020**] [**NTT, Bootstrapping**] Accelerating Number Theoretic Transformations for Bootstrappable Homomorphic Encryption on GPUs.
 
   >*Sangpyo K, Wonkyung J, Jaiyoung P, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9251245) 
@@ -247,10 +227,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**CHES 2014**] [**NTT RLWE**] Compact Ring-LWE Cryptoprocessor.
 
   >*Sujoy R, Frederik V, Nele M, et al.*[[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-2444.pdf) 
-
-* [**ISCAS 2013**] [**FHE**] FPGA implementation of a large-number multiplier for fully homomorphic encryption.
-
-  >*Wei Wang and Xinming Huang.* [[Paper]](https://users.wpi.edu/~xhuang/pubs/2013_wang_iscas.pdf)
 
 * [**Reconfig 2019**] [**FHE, Modular Multiplier**] FPGA-based Accelerators of Fully Pipelined Modular Multipliers for Homomorphic Encryption.
 
@@ -287,10 +263,44 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**DSD 2013**] [**NTT**] Evaluating the Hardware Performance of a Million-Bit Multiplier.
 
   >*Y. Doroz, E. Ozturk, and B. Sunar* [[Paper]](https://ieeexplore.ieee.org/document/6628381)
+  
+* [**ISCAS 2013**] [**FHE**] FPGA implementation of a large-number multiplier for fully homomorphic encryption.
 
+  >*Wei Wang and Xinming Huang.* [[Paper]](https://users.wpi.edu/~xhuang/pubs/2013_wang_iscas.pdf)
 
+* [**ISCAS 2020**] [**AES**] Accelerating Post-Quantum Cryptography using an Energy-Efficient TLS Crypto-Processor.
+
+  >*Utsav Banerjee, Siddharth Das, Anantha P. Chandrakasan* [[Paper]](https://ieeexplore.ieee.org/document/9180550)
+
+* [**ISCAS 2020**] [**BGV**] VLSI Architecture of Polynomial Multiplication for BGV Fully Homomorphic Encryption.
+
+  >*Hsu H and Shieh M.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9181192)
 
 ## **Hardware Acceleration** for Homomorphic Encryption
+
+* [**ISCA 2022**] [**CKKS**] BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption.
+  
+  >*Kim S, Kim J, Ahn Jung, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527415)
+  
+* [**ISCA 2022**] [**FHE**] CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data.
+
+  >*Samardzic N, Feldmann A, Krastev A, et al.* [[Paper]](https://people.csail.mit.edu/devadas/pubs/craterlake.pdf)
+
+* [**MICRO 2022**] [**CKKS**] ARK: Fully Homomorphic Encryption Accelerator with Runtime Data Generation and Inter-Operation Key Reuse.
+
+  >*Kim J, Lee G, Ahn J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9923889/)
+
+* [**MICRO 2021**] [**CKKS**] F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version)
+
+  >*Feldmann A, Samardzic N, Sanchez D, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3466752.3480070)
+
+* [**ASPLOS 2020**] [**CKKS**] HEAX: An Architecture for Computing on Encrypted Data.
+
+  >*M. Sadegh Riazi, Blake Pelton, Wei Dai, et al.* [[Paper]](https://arxiv.org/abs/1909.09731)
+
+* [**ASPLOS 2022**] [**CKKS, BFV**] CHOCO: Client-Optimized Algorithms and Acceleration for Encrypted Compute Offloading
+
+  >*McKenzie van der Hagen, Brandon Lucia.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)
 
 * [**HPCA 2023**] [**CKKS**] FxHENN: FPGA-based acceleration framework for homomorphic encrypted CNN inference
   
@@ -308,18 +318,30 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Yinghao Yang Luhang et al.* [[Paper]](https://mingzhe-zhang.github.io/paper/Poseidon-HPCA2023.pdf)
   
+* [**HPCA 2021**] [**BFV**] Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference.
+  
+  >*Reagen B, Choi W, Brooks D, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9407118)
+  
 * [**HPCA 2019**] [**BFV**] FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data.
   
   >*Sujoy S, Furkan, T, Kimmo J, et al.* [[Paper]](https://ieeexplore.ieee.org/document/8675244)
   
-* [**ISCA 2022**] [**CKKS**] BTS: An Accelerator for Bootstrappable Fully Homomorphic Encryption.
+* [**DAC 2020**] [**NTT**] CryptoPIM: In-memory Acceleration for Lattice-based Cryptographic Hardware. 
   
-  >*Kim S, Kim J, Ahn Jung, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3470496.3527415)
+  >*Nejatollahi H, Gupta S, Dut N, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9218730)
   
-* [**ISCA 2022**] [**FHE**] CraterLake: A Hardware Accelerator for Efficient Unbounded Computation on Encrypted Data.
-  
-  >*Samardzic N, Feldmann A, Krastev A, et al.* [[Paper]](https://people.csail.mit.edu/devadas/pubs/craterlake.pdf)
-  
+* [**DAC 2022**] [**TFHE**] MATCHA: A Fast and Energy-Efficient Accelerator for Fully Homomorphic Encryption over the Torus.
+
+  >*Lei Jiang, Qian Lou, Nrushad Joshi* [[Paper]](https://dl.acm.org/doi/10.1145/3489517.3530435)
+
+* [**DAC 2020**] [**TFHE**] ROMEO: Conversion and Evaluation of HDL Designs in the Encrypted Domain.
+
+  >*Charles Gouert, Nektarios Georgios Tsoutsos.* [[Paper]](https://ieeexplore.ieee.org/document/9218579/)
+
+* [**DDECS 2023**] [**FHEW**] Hardware Acceleration of FHEW.
+
+  >*Jonas Bertels, Ingrid Verbauwhede et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3621.pdf)
+
 * [**DATE 2020**] [**CKKS**] A Flexible and Scalable NTT Hardware:Applications from Homomorphically Encrypted Deep Learning to Post-Quantum Cryptography.
   
   >*Mert A, Karabulut E, Aysu A, et al* [[Paper]](https://ieeexplore.ieee.org/document/9116470)
@@ -332,18 +354,22 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Canto A, Kermani M, Azarderakhsh R, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9179769)
   
-* [**DAC 2020**] [**NTT**] CryptoPIM: In-memory Acceleration for Lattice-based Cryptographic Hardware. 
+* [**TPDS 2023**] [**FHE**] HE-Booster: An Efficient Polynomial Arithmetic Acceleration on GPUs for Fully Homomorphic Encryption
   
-  >*Nejatollahi H, Gupta S, Dut N, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9218730)
-  
-* [**DAC 2022**] [**TFHE**] MATCHA: A Fast and Energy-Efficient Accelerator for Fully Homomorphic Encryption over the Torus.
-  
-  >*Lei Jiang, Qian Lou, Nrushad Joshi* [[Paper]](https://dl.acm.org/doi/10.1145/3489517.3530435)
+  >*Zhiwei Wang,Dan Meng et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10012383)
   
 * [**ICCAD 2022**] [**TFHE**] Accelerating N-bit Operations over TFHE on Commodity CPU-FPGA.
   
   >*Nam K, Moon H, Paek Y, et al.* [[Paper]](https://dl.acm.org/doi/10.1016/j.sysarc.2022.102596)
   
+* [**T-C 2020**] [**FHE**] HEAWS: An Accelerator for Homomorphic Encryption on the Amazon AWS FPGA.
+  
+  >*Furkan Turan, Sujoy Sinha Roy, Ingrid Verbauwhede* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9072637)
+  
+* [**T-C 2015**] [**FHE**] Accelerating Fully Homomorphic Encryption in Hardware.
+
+  >*Yarkın Doroz, Erdinc Ozturk, Berk Sunar* [[Paper]](https://ieeexplore.ieee.org/abstract/document/6871300)
+
 * [**ICCAD 2022**] [**Polynomial Multiplication**] Fast and Compact Interleaved Modular Multiplication based on Carry Save Addition. 
   
   >*Mazonka O, Chielle E, Maniatakos M, et al* [[Paper]]( https://www.semanticscholar.org/paper/Faster-Interleaved-Modular-Multiplication-Based-on-Knezevic-Vercauteren/339dbecb72e03aacacdc8651b69a74f1f1dad232) 
@@ -351,18 +377,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**ICCAD 2022**] [**In-SRAM hash**] Inhale: Enabling High-Performance and Energy-Efficient In-SRAM Cryptographic Hash for IoT. 
   
   >*Jingyao Zhang, Elaheh Sadredini.* [[Paper]](https://arxiv.org/abs/2208.07570)
-  
-* [**ASPLOS 2020**] [**CKKS**] HEAX: An Architecture for Computing on Encrypted Data.
-  
-  >*M. Sadegh Riazi, Blake Pelton, Wei Dai, et al.* [[Paper]](https://arxiv.org/abs/1909.09731)
-  
-* [**ASPLOS 2022**] [**CKKS, BFV**] CHOCO: Client-Optimized Algorithms and Acceleration for Encrypted Compute Offloading
-  
-  >*McKenzie van der Hagen, Brandon Lucia.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3503222.3507737)
-  
-* [**MICRO 2021**] [**CKKS**] F1: A Fast and Programmable Accelerator for Fully Homomorphic Encryption (Extended Version)
-  
-  >*Feldmann A, Samardzic N, Sanchez D, et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3466752.3480070)
   
 * [**TVLSI 2020**] [**BFV**] Design and Implementation of Encryption/Decryption Architectures for BFV Homomorphic Encryption Scheme. 
   
@@ -427,14 +441,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**IEEE Access 2020**] [**BGV**] FPGA-Based Hardware Accelerator for Leveled Ring-LWE Fully Homorphic Encryption. 
 
   >*Yang Su, Bailong Yang, Luogeng Tian, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9194003)
-
-* [**T-C 2020**] [**FHE**] HEAWS: An Accelerator for Homomorphic Encryption on the Amazon AWS FPGA.
-
-  >*Furkan Turan, Sujoy Sinha Roy, Ingrid Verbauwhede* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9072637)
-
-* [**T-C 2015**] [**FHE**] Accelerating Fully Homomorphic Encryption in Hardware.
-
-  >*Yarkın Doroz, Erdinc Ozturk, Berk Sunar* [[Paper]](https://ieeexplore.ieee.org/abstract/document/6871300)
 
 * [**TETCI 2017**] [**FHE, CRT**] Designing an FPGA-Accelerated Homomorphic Encryption Co-Processor.,
 

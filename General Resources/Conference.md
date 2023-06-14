@@ -7,21 +7,36 @@
 ### **System**
 
 - HPCA (High Performance Computer Architecture)
+
 - ISSCC (IEEE International Solid-State Circuits Conference)
+
 - ISCA (International Symposium on Computer Architecture)
+
 - DATE (Design, Automation and Test in Europe)
+
 - CICC (Custom Integrated Circuits Conference)
+
 - DAC (Design Automation Conference)
+
 - ICCAD (International Conference on Computer-Aided Design)
+
 - ASPLOS (Architectural Support for Programming Languages and Operating Systems)
+
 - MICRO (The International Symposium on Microarchitecture)
+
 - ISCAS (International Symposium on Circuits And Systems)
+
 - HPEC (IEEE High Performance Extreme Computing)
+
 - ASAP (International Conference on Application-specific Systems, Architectures and Processors)
+
 - DSD (Euromicro Conference on Digital System Design)
+
 - FCCM (International Symposium on Field-Programmable Custom Computing Machines)
 
+- DDECS (International Symposium on Design and Diagnostics of Electronic Circuits and Systems) 
 
+  
 
 ### **Information Security(Mainly Applicable)**
 
@@ -76,4 +91,7 @@
 - TOCT (ACM Transactions on Computation Theory) 
 - Journal of Cryptology
 - Communications of the ACM (Commun.ACM)
+- TPDS (IEEE Transactions on Parallel and Distributed Systems)
+
+(P.S. Readers can refer to this [[Website]](https://ccf.atom.im/) to obtain more detailed information about the conferences and journals)
 
