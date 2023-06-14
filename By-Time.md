@@ -8,9 +8,9 @@ Homomorphic Encryption acceleration papers in a chronological order.
 
 ### **2023**
 
-[**TPDS 2023**] [**FHE**] HE-Booster: An Efficient Polynomial Arithmetic Acceleration on GPUs for Fully Homomorphic Encryption *Zhiwei Wang,Dan Meng et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10012383)
-
-[**ResearchGate 2023**] [**FHE**] PAF-FHE: Low-Cost Accurate Non-Polynomial Operator Polynomial Approximation in Fully Homomorphic Encryption Based ML Inference. *Dang J, Tong J, Golder A, et al.* [[Paper]](https://www.researchsquare.com/article/rs-2910088/v1)
+* [**TPDS 2023**] [**FHE**] HE-Booster: An Efficient Polynomial Arithmetic Acceleration on GPUs for Fully Homomorphic Encryption *Zhiwei Wang,Dan Meng et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10012383)
+* [**ResearchGate 2023**] [**FHE**] PAF-FHE: Low-Cost Accurate Non-Polynomial Operator Polynomial Approximation in Fully Homomorphic Encryption Based ML Inference. *Dang J, Tong J, Golder A, et al.* [[Paper]](https://www.researchsquare.com/article/rs-2910088/v1)
+* [**Arxiv 2023**] [**FHE**] HyPHEN: A Hybrid Packing Method and Optimizations for Homomorphic Encryption-Based Neural Networks. *Donghwan Kim, Jaiyoung Park and Jung Ho Ahn, et, al* [[Paper]](https://arxiv.org/abs/2302.02407)
 
 ### **2022**
 
