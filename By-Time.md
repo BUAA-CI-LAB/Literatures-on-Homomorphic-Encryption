@@ -10,6 +10,8 @@ Homomorphic Encryption acceleration papers in a chronological order.
 
 [**TPDS 2023**] [**FHE**] HE-Booster: An Efficient Polynomial Arithmetic Acceleration on GPUs for Fully Homomorphic Encryption *Zhiwei Wang,Dan Meng et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10012383)
 
+[**ResearchGate 2023**] [**FHE**] PAF-FHE: Low-Cost Accurate Non-Polynomial Operator Polynomial Approximation in Fully Homomorphic Encryption Based ML Inference. *Dang J, Tong J, Golder A, et al.* [[Paper]](https://www.researchsquare.com/article/rs-2910088/v1)
+
 ### **2022**
 
 * [**TCAD 2022**] [**BGV**] Efficient FHE Radix-2 Arithmetic Operations Based on Redundant Encoding. *Hou Z, Shaojun Wei, Leibo Liu, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9502150)
@@ -17,6 +19,8 @@ Homomorphic Encryption acceleration papers in a chronological order.
 * [**TVLSI 2022**] [**BFV**] Efficient Homomorphic Convolution Designs on FPGA for Secure Inference. *Xiao Hu, Minghao Li, Zhongfeng Wang, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9866023)
 * [**TVLSI 2022**] [**AES**] VLSI Design of Advanced-Features AES Cryptoprocessor in the Framework of the European Processor Initiative. *Nannipieri P, Matteo S, Fanucci L, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9631958/)
 * [**TCAS-I 2022**] [**Polynomial Multiplication**] Faster NTRU on ARM Cortex-M4 With TMVP-Based Multiplication. *Irem Keskinkurt Paksoy, Murat Cenk.* [[Paper]](https://ieeexplore.ieee.org/document/9835023/) 
+* [**Cryptology ePrint Archive 2022**] [**BGV**] BASALISC: Programmable Asynchronous Hardware Accelerator for BGV Fully Homomorphic Encryption. *Geelen R, Van Beirendonck M, Pereira H V L, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3492.pdf) 
+* [**Cryptology ePrint Archive 2022**] [**FHE RNS**] Cuda-accelerated rns multiplication in word-wise homomorphic encryption schemes. *Shen S, Yang H, Liu Y, et al.* [[Paper]](https://eprint.iacr.org/2022/633) 
 
 
 ### **2021**
@@ -63,6 +67,8 @@ Homomorphic Encryption acceleration papers in a chronological order.
 * [**HPCA 2023**] [**CKKS**] TensorFHE: Achieving Practical Computation on Encrypted Data using GPGPU. *Shengyu Fan,Mingzhe Zhang et al.* [[Paper]](https://arxiv.org/abs/2212.14191)
 * [**HPCA 2023**] [**CKKS**] Poseidon: Practical Homomorphic Encryption Accelerator. *Yinghao Yang Luhang et al.* [[Paper]](https://mingzhe-zhang.github.io/paper/Poseidon-HPCA2023.pdf)
 * [**DDECS 2023**] [**FHEW**] Hardware Acceleration of FHEW. *Jonas Bertels, Ingrid Verbauwhede et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3621.pdf)
+* [**HOST 2023**] [**FHE**] FHE-Booster: Accelerating Fully Homomorphic Execution with Fine-tuned Bootstrapping Scheduling. *White, T, Tsoutsos, N. G.et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10132930)
+* [**ISPASS 2023**] [**TFHE**] PyTFHE: An End-to-End Compilation and Execution Framework for Fully Homomorphic Encryption Applications. *Jiaao Ma, Lisa Wu Wills et, al.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
 
 ### **2022**
 
@@ -78,6 +84,8 @@ Homomorphic Encryption acceleration papers in a chronological order.
 * [**ICCAD 2022**] [**Polynomial Multiplication**] Fast and Compact Interleaved Modular Multiplication based on Carry Save Addition. *Mazonka O, Chielle E, Maniatakos M, et al* [[Paper]]( https://www.semanticscholar.org/paper/Faster-Interleaved-Modular-Multiplication-Based-on-Knezevic-Vercauteren/339dbecb72e03aacacdc8651b69a74f1f1dad232) 
 * [**ICCAD 2022**] [**In-SRAM hash**] Inhale: Enabling High-Performance and Energy-Efficient In-SRAM Cryptographic Hash for IoT.  *Jingyao Zhang, Elaheh Sadredini.* [[Paper]](https://arxiv.org/abs/2208.07570)
 * [**ICCAD 2022**] [**BFV, BGV, CKKS**]Accelerating Fully Homomorphic Encryption by Bridging Modular and Bit-Level Arithmetic. *Chielle E, Mazonka O, Maniatakos M* [[Paper]](https://arxiv.org/abs/2204.12201)
+* [**ICCAD 2022**] [**BFV, BGV, CKKS**]Accelerating Fully Homomorphic Encryption by Bridging Modular and Bit-Level Arithmetic. *Chielle E, Mazonka O, Maniatakos M* [[Paper]](https://arxiv.org/abs/2204.12201)
+* [**IPDPS 2022**] [**CKKS**] Accelerating encrypted computing on intel gpus *Zhai Y, Ibrahim M, Qiu Y, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9820676)
 * [**ESSCIRC 2022**] [**PQC**] Configurable Energy-Efficient Lattice-Based PostQuantum Cryptography Processor for IoT Devices. *Kim B, Park J, Sim J, et al* [[Paper]](https://ieeexplore.ieee.org/document/9911531/)
 * [**IEEE proceedings 2022**] Survey on Fully Homomorphic Encryption, Theory, and Applications. *Chiara M, Victor S, Marc M, et al.* [[Paper]](https://ieeexplore.ieee.org/document/9910347)
 * [**CSUR 2022**] [**Survey**] A Survey on Homomorphic Encryption Schemes_Theory and Implementation.  *Abbas Acar, Hidayet Aksu, A. Selcuk Uluagac.* [[Paper]]( https://dl.acm.org/doi/10.1145/3214303)

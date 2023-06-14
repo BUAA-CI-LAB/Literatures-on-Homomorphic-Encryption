@@ -18,6 +18,14 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ## **Algorithmic Acceleration** for Homomorphic Encryption
 
 
+* [**ISPASS 2023**] [**TFHE**] PyTFHE: An End-to-End Compilation and Execution Framework for Fully Homomorphic Encryption Applications.
+
+  >*Jiaao Ma, Lisa Wu Wills et, al.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
+
+* [**ResearchGate 2023**] [**FHE**] PAF-FHE: Low-Cost Accurate Non-Polynomial Operator Polynomial Approximation in Fully Homomorphic Encryption Based ML Inference.
+
+  >*Dang J, Tong J, Golder A, et al.* [[Paper]](https://www.researchsquare.com/article/rs-2910088/v1)
+
 * [**DATE 2021**] [**BFV**] Real-time Private Membership Test using Homomorphic Encryption.
 
   >*Eduardo Chielle, Homer Gamil, Michail Maniatakos.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
@@ -346,6 +354,10 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Mert A, Karabulut E, Aysu A, et al* [[Paper]](https://ieeexplore.ieee.org/document/9116470)
   
+* [**HPEC 2022**] [**TFHE**] FPGA Acceleration of Fully Homomorphic Encryption over the Torus.
+  
+  >*Ye, Tian, Rajgopal Kannan, and Viktor K. Prasanna* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9926381/)
+  
 * [**CICC 2021**] [**Pairing**] A Low-Power Elliptic Curve Pairing Crypto-Processor for Secure Embedded Blockchain and Functional Encryption.
   
   >*Utsav Banerjee, Anantha P. Chandrakasan* [[Paper]](https://ieeexplore.ieee.org/document/9431552)
@@ -362,6 +374,18 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   
   >*Nam K, Moon H, Paek Y, et al.* [[Paper]](https://dl.acm.org/doi/10.1016/j.sysarc.2022.102596)
   
+* [**ICCAD 2022**] [**Polynomial Multiplication**] Fast and Compact Interleaved Modular Multiplication based on Carry Save Addition. 
+  
+  >*Mazonka O, Chielle E, Maniatakos M, et al* [[Paper]]( https://www.semanticscholar.org/paper/Faster-Interleaved-Modular-Multiplication-Based-on-Knezevic-Vercauteren/339dbecb72e03aacacdc8651b69a74f1f1dad232) 
+  
+* [**ICCAD 2022**] [**In-SRAM hash**] Inhale: Enabling High-Performance and Energy-Efficient In-SRAM Cryptographic Hash for IoT. 
+
+  >*Jingyao Zhang, Elaheh Sadredini.* [[Paper]](https://arxiv.org/abs/2208.07570)
+
+* [**IPDPS 2022**] [**CKKS**] Accelerating encrypted computing on intel gpus.
+  
+  >*Zhai Y, Ibrahim M, Qiu Y, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9820676)
+  
 * [**T-C 2020**] [**FHE**] HEAWS: An Accelerator for Homomorphic Encryption on the Amazon AWS FPGA.
   
   >*Furkan Turan, Sujoy Sinha Roy, Ingrid Verbauwhede* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9072637)
@@ -370,14 +394,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Yarkın Doroz, Erdinc Ozturk, Berk Sunar* [[Paper]](https://ieeexplore.ieee.org/abstract/document/6871300)
 
-* [**ICCAD 2022**] [**Polynomial Multiplication**] Fast and Compact Interleaved Modular Multiplication based on Carry Save Addition. 
-  
-  >*Mazonka O, Chielle E, Maniatakos M, et al* [[Paper]]( https://www.semanticscholar.org/paper/Faster-Interleaved-Modular-Multiplication-Based-on-Knezevic-Vercauteren/339dbecb72e03aacacdc8651b69a74f1f1dad232) 
-  
-* [**ICCAD 2022**] [**In-SRAM hash**] Inhale: Enabling High-Performance and Energy-Efficient In-SRAM Cryptographic Hash for IoT. 
-  
-  >*Jingyao Zhang, Elaheh Sadredini.* [[Paper]](https://arxiv.org/abs/2208.07570)
-  
 * [**TVLSI 2020**] [**BFV**] Design and Implementation of Encryption/Decryption Architectures for BFV Homomorphic Encryption Scheme. 
   
   >*Ahmet Can Mert , ErdinÖztürk, Erkay Savas* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8866755)
@@ -457,6 +473,14 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**ArXiv 2022**] [**FHE, Bootstrapping**] FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption. 
 
   >*Rashmi A, Leo de, Ajay J, et al.*[[Paper]](https://arxiv.org/abs/2207.11872)
+  
+* [**Cryptology ePrint Archive 2022**] [**BGV**] BASALISC: Programmable Asynchronous Hardware Accelerator for BGV Fully Homomorphic Encryption.
+
+  >*Geelen R, Van Beirendonck M, Pereira H V L, et al.* [[Paper]](https://www.esat.kuleuven.be/cosic/publications/article-3492.pdf) 
+  
+* [**Cryptology ePrint Archive 2022**] [**FHE RNS**] Cuda-accelerated rns multiplication in word-wise homomorphic encryption schemes. 
+
+  >*Shen S, Yang H, Liu Y, et al.* [[Paper]](https://eprint.iacr.org/2022/633) 
 
 
 

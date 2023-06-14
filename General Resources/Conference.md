@@ -36,6 +36,12 @@
 
 - DDECS (International Symposium on Design and Diagnostics of Electronic Circuits and Systems) 
 
+- HPEC (High Performance Extreme Computing Conference)
+
+- IPDPS (International Parallel & Distributed Processing Symposium)
+
+- ISPASS (IEEE International Symposium on Performance Analysis of Systems and Software)
+
   
 
 ### **Information Security(Mainly Applicable)**
