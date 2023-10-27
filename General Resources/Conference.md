@@ -44,7 +44,20 @@
 
 - HCS (Proceedings of IEEE Hot Chips Symposium)
 
-  
+- NeurIPS (	Annual Conference on Neural Information Processing Systems)
+
+- ACL (Annual Meeting of the Association for Computational Linguistics)
+
+- PAAP (International Symposium on Parallel Architectures, Algorithms and Programming)
+
+- ICLR (International Conference on Learning Representations)
+
+- IJCAI (International Joint Conference on Artificial Intelligence)
+
+- ISQED (International Symposium on Quality Electronic Design)
+
+- ISC (Information Security Conference)
+- FPL (Field Programmable Logic and Applications)
 
 ### **Information Security(Mainly Applicable)**
 
@@ -66,7 +79,8 @@
 - WAHC (Workshop on Encrypted Computing & Applied Homomorphic Cryptography)
 - IACR Cryptology ePrint Archive (The Cryptology ePrint Archive provides rapid access to recent research in cryptology. )
 - DCC (Designs Codes Cryptography)
-
+- CT-RSA (Cryptographer’s Track at RSA Conference)
+- ACNS (International Conference on Applied Cryptography and Network Security)
 
 
 ### **Artificial Intelligence**
@@ -112,7 +126,17 @@
 
 - Communications of the ACM (Commun.ACM)
 
-  
+- TDSC (IEEE Transactions on Dependable and Secure Computing)
+
+- TIFS (IEEE Transactions on Information Forensics and Security)
+
+- TCSII (IEEE Transactions on Circuits and Systems II)
+
+- JXCDC (IEEE Journal on Exploratory Solid-State Computational Devices and Circuits)
+
+- PPNA (Peer-to-Peer Networking and Applications)
+
+
 
 (P.S. Readers can refer to this [[Website]](https://ccf.atom.im/) to obtain more detailed information about the conferences and journals)
 

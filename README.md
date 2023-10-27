@@ -17,7 +17,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 ---
 ## **Algorithmic Acceleration** for Homomorphic Encryption
 
-* [**TDSC 2023**] [**SIMC, Garbled Circuit**] SIMC 2.0: Improved Secure ML Inference Against Malicious Clients
+* [**TDSC 2023**] [**SIMD, Garbled Circuit**] SIMC 2.0: Improved Secure ML Inference Against Malicious Clients
   >*Guowen Xu,Xing shuo Han et al.* [[Paper]](https://arxiv.org/pdf/2207.04637.pdf)
 
 * [**TIFS 2023**] [**CNN**] Optimized Privacy-Preserving CNN Inference With Fully Homomorphic Encryption.
@@ -134,7 +134,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
   >*Joon-woo L, Hyungchul K, Jong-Seon N, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9734024) 
 
-* [**CoRR 2019**] [**TFHE**] SHE: A Fast and Accurate Privacy-Preserving Deep Neural Network Via Leveled TFHE and Logarithmic Data Representation
+* [**NeurIPS 2019**] [**TFHE**] SHE: A Fast and Accurate Privacy-Preserving Deep Neural Network Via Leveled TFHE and Logarithmic Data Representation
   >*Qian Lou, Lei Jiang* [[Paper]](https://www.researchgate.net/profile/Qian-Lou-4/publication/333600728_SHE_A_Fast_and_Accurate_Privacy-Preserving_Deep_Neural_Network_Via_Leveled_TFHE_and_Logarithmic_Data_Representation/links/5d76588c92851cacdb2cabb0/SHE-A-Fast-and-Accurate-Privacy-Preserving-Deep-Neural-Network-Via-Leveled-TFHE-and-Logarithmic-Data-Representation.pdf)
 
 * [**IJCAI 2019**] [**BFV, BGV**] BAYHENN: Combining Bayesian Deep Learning and Homomorphic Encryption for Secure DNN Inference
