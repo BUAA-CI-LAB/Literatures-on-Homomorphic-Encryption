@@ -261,7 +261,7 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**JXCDC 2022**] [**NTT-CIM**] RM-NTT: An RRAM-Based Compute-in-Memory Number Theoretic Transform Accelerator
   >*Yongmo Park et al.* [[Paper]](https://ieeexplore.ieee.org/document/9870678)
 
-* [**ICANS 2022**] [**CKKS, BGV**] A methodology for training homomorphic encryption friendly neural networks
+* [**ACNS 2022**] [**CKKS, BGV**] A methodology for training homomorphic encryption friendly neural networks
   >*Moran Baruch et al.* [[Paper]](https://arxiv.org/pdf/2111.03362.pdf)
 
 * [**ISCA 2022**] [**CKKS**] Graphite: optimizing graph neural networks on CPUs through cooperative software-hardware techniques. 
