@@ -7,6 +7,9 @@ Homomorphic Encryption acceleration papers in a chronological order.
 ## **Journal**
 
 ### **2023**
+* [**ArXiv 2023**] [**TFHE, lookup-table**] TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture
+  >*Adrien Benamira et al.* [[Paper]](https://arxiv.org/pdf/2302.01584.pdf)
+
 * [**ArXiv 2023**] [**Survey**] Data Privacy with Homomorphic Encryption in Neural Networks Training and Inference
   >*Ivone Amorim et al.* [[Paper]](https://arxiv.org/pdf/2305.02225.pdf)
 * [**PPNA 2023**] [**Survey**] Privacy-preserving neural networks with Homomorphic encryption:

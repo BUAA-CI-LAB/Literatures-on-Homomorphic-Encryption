@@ -10,7 +10,9 @@ Literatures in this page are arranged from a classification perspective, includi
 - [Surveys and Performance Analysis on Homomorphic Encryption](#Surveys-and-Performance-Analysis-on-Homomorphic-Encryption)
 - [Maintainers](#maintainers)
 
-Click [here](./By-Time.md) to view these literatures in a reverse chronological order. You can also find [Related Conferences](./General%20Resources/Conference.md), [Homomorphic Encryption Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on Homomorphic Encryption](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources).
+Click [here](./By-Time.md) to view these literatures in a reverse chronological order. You can also find [Related Conferences](./General%20Resources/Conference.md), [Homomorphic Encryption Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on Homomorphic Encryption](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources). 
+
+Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving Machine Learning(PPML).
 
 
 
@@ -35,9 +37,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 * [**Arxiv 2023**] [**FHE**] HyPHEN: A Hybrid Packing Method and Optimizations for Homomorphic Encryption-Based Neural Networks.
 
   >*Donghwan Kim, Jaiyoung Park and Jung Ho Ahn, et, al* [[Paper]](https://www.zhanhongtan.com/publication/hotchip23b/) 
-
-* [**NeurIPS 2022**] [**GCN, CKKS**] CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference
-  >*Ran Ran, Nuo Xu et al.* [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/f5332c8273d02729730a9c24dec2135e-Paper-Conference.pdf)
 
 * [**ACL 2022**] [**Transformer, CKKS**] THE-X: Privacy-Preserving Transformer Inference with Homomorphic Encryption
   >*Tianyu Chen et al.* [[Paper]](https://aclanthology.org/2022.findings-acl.277.pdf)
@@ -237,6 +236,9 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ## **System Designs** for Homomorphic Encryption
 
+* [**ArXiv 2023**] [**TFHE, lookup-table**] TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture
+  >*Adrien Benamira et al.* [[Paper]](https://arxiv.org/pdf/2302.01584.pdf)
+
 * [**DAC 2023**] [**NTT**] BP-NTT: Fast and Compact in-SRAM Number Theoretic Transform with Bit-Parallel Modular Multiplication
   >*Jinyao Zhang et al.* [[Paper]](https://arxiv.org/pdf/2303.00173.pdf)
 
@@ -251,6 +253,9 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 * [**DAC 2023**] [**AHE, Transformer**] Primer: Fast Private Transformer Inference on Encrypted Data
   >*Mengxin Zheng, Qian Lou, Lei Jiang* [[Paper]](https://arxiv.org/pdf/2303.13679.pdf)
+
+* [**NeurIPS 2022**] [**GCN, CKKS**] CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference
+  >*Ran Ran, Nuo Xu et al.* [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/f5332c8273d02729730a9c24dec2135e-Paper-Conference.pdf)
 
 * [**TCSII 2022**] [**NTT**] PipeNTT: A Pipelined Number Theoretic Transform Architecture
   >*Zewen Ye et al.* [[Paper]](https://ieeexplore.ieee.org/document/9802731)
@@ -383,7 +388,6 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
   >*Mengxin Zheng,FanChSen et al.* [[Paper]](https://ieeexplore.ieee.org/document/10129302)
 
 * [**HPCA 2023**] [**CKKS**] FxHENN: FPGA-based acceleration framework for homomorphic encrypted CNN inference
-  
   >*Yilan Zhu Lei Ju et al.* [[Paper]](https://ieeexplore.ieee.org/document/10071133/)
   
 * [**HPCA 2023**] [**CKKS**] FAB: An FPGA-based Accelerator for Bootstrappable Fully Homomorphic Encryption
@@ -588,6 +592,9 @@ Click [here](./By-Time.md) to view these literatures in a reverse chronological 
 
 ---
 ## **Surveys and Performance Analysis** on Homomorphic Encryption
+
+* [**S&P 2023**] [**Survey**] SoK: Cryptographic Neural-Network Computation
+  >*Lucien K. L. Ng，Sherman S. M. Chow et al. * [[Paper]](https://ieeexplore.ieee.org/document/10179483)
 
 * [**ArXiv 2023**] [**Survey**] Data Privacy with Homomorphic Encryption in Neural Networks Training and Inference
   >*Ivone Amorim et al.* [[Paper]](https://arxiv.org/pdf/2305.02225.pdf)
