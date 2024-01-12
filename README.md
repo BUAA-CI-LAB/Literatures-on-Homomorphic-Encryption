@@ -12,15 +12,17 @@ Literatures in this page are arranged from a classification perspective, includi
 
 Click [here](./By-Time.md) to view these literatures in a reverse chronological order. You can also find [Related Conferences](./General%20Resources/Conference.md), [Homomorphic Encryption Learning Tools](./General%20Resources/Frameworks%20%26%20Tools/), [Learning Materials on Homomorphic Encryption](./General%20Resources/Learning%20Materials) and Other Resources in [General Resources](./General%20Resources). 
 
-Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving Machine Learning(PPML).
+Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving Machine Learning(Neural Networks)(PPML/PPNN).
 
 
 
 ---
 ## **Algorithmic Acceleration** for Homomorphic Encryption
 
-* [**TDSC 2023**] [**SIMD, Garbled Circuit**] SIMC 2.0: Improved Secure ML Inference Against Malicious Clients
-  >*Guowen Xu,Xing shuo Han et al.* [[Paper]](https://arxiv.org/pdf/2207.04637.pdf)
+* [**USENIX 2023**] [**Bootstrapping, Compiler**] DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption
+  >*Cheon S, Lee Y, Kim D, et al.* [[Paper]](https://www.usenix.org/system/files/sec24summer-prepub-336-cheon.pdf)
+
+
 
 * [**TIFS 2023**] [**CNN**] Optimized Privacy-Preserving CNN Inference With Fully Homomorphic Encryption.
   >*DongWoo King et al.* [[Paper]](https://ieeexplore.ieee.org/document/10089847)
@@ -374,6 +376,10 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 
 
 ## **Hardware Acceleration** for Homomorphic Encryption
+
+* [**ArXiv 2023**] [**Chiplet, FHE**] CiFHER: A Chiplet-Based FHE Accelerator with a
+Resizable Structure
+  >*Kim S, Kim J, Choi J.* [[Paper]](https://arxiv.org/abs/2308.04890)
 
 * [**ArXiv 2023**] [**HE,Garbled Circuit**] Privacy Preserving In-memory Computing Engine 
   >*Haoran Geng et al.* [[Paper]](https://arxiv.org/pdf/2308.02648.pdf)

@@ -1,5 +1,5 @@
 # **Papers for Privacy Preserving Machine Learning(PPML) and Privacy Preserving Neural Networks(PPNN)**
-Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), Hybrid Privacy Preserving method 
+Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), Functional Encryption(FE), Hybrid Privacy Preserving method 
 
 - [Algorithmic Acceleration for PPML/PPNN](#algorithmic-acceleration-for-ppmlppnn)
 - [System Designs for PPML/PPNN](#system-designs-for-ppmlppnn)
@@ -10,6 +10,32 @@ Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), H
 
 ## **Algorithmic Acceleration** for PPML/PPNN
 
+* [**KBS 2024**] [**MPC**] FPCNN: A fast privacy-preserving outsourced convolutional neural network with low-bandwidth
+  >*Li J, Yan Y, Zhang K, et al.* [[Paper]](https://www.sciencedirect.com/science/article/pii/S0950705123009310)
+
+* [**ICML 2023**] [**HE, Transfer Learning**] HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption
+  >*Lee S, Lee G, Kim J W, et al.* [[Paper]](https://proceedings.mlr.press/v202/lee23m/lee23m.pdf)
+
+* [**S&P 2023**] [**MPC, Training, DP**] Private, Efficient, and Accurate: Protecting Models Trained by Multi-party Learning with Differential Privacy
+  >*Ruan W, Xu M, Fang W, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10179422)
+
+* [**ICML 2023**] [**DP, Training**] Label Differential Privacy and Private Training Data Release
+  >*Busa-Fekete R I, Medina A M, Syed U, et al.* [[Paper]](https://proceedings.mlr.press/v202/busa-fekete23a/busa-fekete23a.pdf)
+
+* [**Cryptology eprint Archive 2023**] [**MPC, Training**] Secure Floating-Point Training
+  >*Rathee D, Bhattacharya A, Gupta D, et al.* [[Paper]](https://www.usenix.org/system/files/sec23fall-prepub-212-rathee.pdf)
+
+* [**ASIACRYPT 2023**] [**CKKS, BFV, Rotation**] Rotation Key Reduction for Client-Server Systems of Deep Neural Network on Fully Homomorphic Encryption
+  >*Lee J W, Lee E, Kim Y S, et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-981-99-8736-8_2)
+
+* [**TDSC 2023**] [**SIMD, Garbled Circuit**] SIMC 2.0: Improved Secure ML Inference Against Malicious Clients
+  >*Guowen Xu,Xing shuo Han et al.* [[Paper]](https://arxiv.org/pdf/2207.04637.pdf)
+
+* [**TIFS 2023**] [**MPC, BNN**] FLEXBNN: Fast Private Binary Neural Network Inference With Flexible Bit-Width
+  >*Dong Y, Chen X, Song X, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10093909)
+
+* [**IWSPA 2023**] [**FE**] FENet: Privacy-preserving Neural Network Training with Functional Encryption
+  >*Panzade P, Takabi D.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3579987.3586566)
 
 * [**ArXiv 2023**] [**HE-based 2PC, depth-wise Packing Optimization**] Falcon: Accelerating Homomorphically Encrypted Convolutions for Efficient Private Mobile Network Inference
   >*Xu T, Li M, Wang R, et al.* [[Paper]](https://arxiv.org/pdf/2308.13189.pdf)
@@ -22,6 +48,22 @@ Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), H
 
 * [**NeurIPS 2022**] [**AHE**] Iron: Private Inference on Transformers
   >*Meng Hao et al.* [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/64e2449d74f84e5b1a5c96ba7b3d308e-Paper-Conference.pdf)
+
+
+* [**ACNS 2022**] [**HE, Training**] A methodology for training homomorphic encryption friendly neural networks
+  >*Baruch M, Drucker N, Greenberg L, et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16815-4_29)
+
+* [**ICLR 2021**] [**FHE, BNN**] GATENET: BRIDGING THE GAP BETWEEN BINARIZED NEURAL NETWORK AND FHE EVALUATION
+  >*Fu C, Huang H, Chen X, et al.* [[Paper]](https://aisecure-workshop.github.io/aml-iclr2021/papers/9.pdf)
+
+* [**WIHMS 2021**] [**MPC, Replicated Secret Share, BNN**] Banners: Binarized Neural Networks with Replicated Secret Sharing
+  >*Ibarrondo A, Chabanne H, Önen M.* [[Paper]](https://eprint.iacr.org/2021/045.pdf)
+
+* [**SIGSAC 2019**] [**MPC**] QUOTIENT: Two-Party Secure Neural Network Training and Prediction
+  >*Agrawal N, Shahin Shamsabadi A, Kusner M J, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3319535.3339819)
+
+* [**USENIX 2019**] [**MPC, OT, GC, BNN**] XONN: XNOR-based Oblivious Deep Neural Network Inference
+  >*Riazi M S, Samragh M, Chen H, et al.* [[Paper]](https://www.usenix.org/conference/usenixsecurity19/presentation/riazi)
 
 ## **System Designs** for PPML/PPNN
 
@@ -49,6 +91,10 @@ Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), H
 * [**NeurIPS 2022**] [**GCN, CKKS**] CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference
   >*Ran Ran, Nuo Xu et al.* [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/f5332c8273d02729730a9c24dec2135e-Paper-Conference.pdf)
 
+* [**TDSC 2021**] [**MPC**] A Lightweight Privacy-Preserving CNN Feature
+Extraction Framework for Mobile Sensing
+  >*Huang K, Liu X, Fu S, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/8700229)
+
 ## **Hardware Acceleration** for PPML/PPNN
 
 * [**ISQED 2023**] [**CKKS,KS,NTT,RNS**] PriML: An Electro-Optical Accelerator for Private Machine Learning on Encrypted Data
@@ -56,6 +102,9 @@ Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), H
 
 * [**HPCA 2023**] [**CKKS**] FxHENN: FPGA-based acceleration framework for homomorphic encrypted CNN inference
   >*Yilan Zhu Lei Ju et al.* [[Paper]](https://ieeexplore.ieee.org/document/10071133/)
+
+* [**USENIX 2021**] [**MPC, GC, GPU**] GForce: GPU-Friendly Oblivious and Rapid Neural Network Inference
+  >*Ng L K L, Chow S S M.* [[Paper]](https://www.usenix.org/conference/usenixsecurity21/presentation/ng)
 
 ## **Network Architecture Optimizaiton** for PPML/PPNN
 
