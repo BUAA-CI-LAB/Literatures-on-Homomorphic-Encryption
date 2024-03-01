@@ -19,10 +19,11 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 ---
 ## **Algorithmic Acceleration** for Homomorphic Encryption
 
+* [**Cryptology eprint Archive 2024**] [**FHE**] Application-Aware Approximate Homomorphic Encryption: Configuring FHE for Practical Use
+  >*Alexandru A, Al Badawi A, Micciancio D, et al.* [[Paper]](https://eprint.iacr.org/2024/203.pdf)
+
 * [**USENIX 2023**] [**Bootstrapping, Compiler**] DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption
   >*Cheon S, Lee Y, Kim D, et al.* [[Paper]](https://www.usenix.org/system/files/sec24summer-prepub-336-cheon.pdf)
-
-
 
 * [**TIFS 2023**] [**CNN**] Optimized Privacy-Preserving CNN Inference With Fully Homomorphic Encryption.
   >*DongWoo King et al.* [[Paper]](https://ieeexplore.ieee.org/document/10089847)
@@ -238,6 +239,10 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 
 ## **System Designs** for Homomorphic Encryption
 
+* [**Cryptology ePrint Archive 2024**] [**AHE**] Application-Aware Approximate Homomorphic Encryption:
+Configuring FHE for Practical Use
+  >*Alexandru A, Al Badawi A, Micciancio D, et al.* [[Paper]](https://eprint.iacr.org/2024/203.pdf)
+
 * [**ArXiv 2023**] [**TFHE, lookup-table**] TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture
   >*Adrien Benamira et al.* [[Paper]](https://arxiv.org/pdf/2302.01584.pdf)
 
@@ -376,6 +381,14 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 
 
 ## **Hardware Acceleration** for Homomorphic Encryption
+* [**TDSC 2024**] [**GPU**] Phantom: A CUDA-Accelerated Word-Wise Homomorphic Encryption Library
+  >*Yang H, Shen S, Dai W, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10428046)
+
+* [**Cryptology ePrint Archive 2024**] [**NTT, BGV**] Hardware Acceleration of the Prime-Factor and Rader NTT for BGV Fully Homomorphic Encryption
+  >*Du Pont D, Bertels J, Turan F, et al.* [[Paper]](https://eprint.iacr.org/2024/217.pdf)
+
+* [**ArXiv 2023**] [**PIM, FHE**] FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption
+  >*Zhou M, Nam Y, Gangwar P, et al.* [[Paper]](https://arxiv.org/pdf/2311.16293.pdf)
 
 * [**ArXiv 2023**] [**Chiplet, FHE**] CiFHER: A Chiplet-Based FHE Accelerator with a
 Resizable Structure
