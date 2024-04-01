@@ -19,11 +19,23 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 ---
 ## **Algorithmic Acceleration** for Homomorphic Encryption
 
+* [**Journal of Cryptology 2024**] [**CKKS**] BLEACH: cleaning errors in discrete computations over CKKS
+  >*Drucker N, Moshkowich G, Pelleg T, et al.* [[Paper]](https://eprint.iacr.org/2022/1298.pdf)
+
+* [**Cryptology eprint 2024**] [**NTT**] Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration
+  >*Kim A, Mert A C, Mukherjee A, et al.* [[Paper]](https://eprint.iacr.org/2024/314.pdf)
+
 * [**Cryptology eprint Archive 2024**] [**FHE**] Application-Aware Approximate Homomorphic Encryption: Configuring FHE for Practical Use
   >*Alexandru A, Al Badawi A, Micciancio D, et al.* [[Paper]](https://eprint.iacr.org/2024/203.pdf)
 
+* [**ArXiv 2023**] [**Key Switching**] CiFlow: Dataflow Analysis and Optimization of Key Switching for Homomorphic Encryption
+  >*Neda N, Ebel A, Reynwar B, et al.* [[Paper]](https://arxiv.org/html/2311.01598v2)
+
 * [**USENIX 2023**] [**Bootstrapping, Compiler**] DaCapo: Automatic Bootstrapping Management for Efficient Fully Homomorphic Encryption
   >*Cheon S, Lee Y, Kim D, et al.* [[Paper]](https://www.usenix.org/system/files/sec24summer-prepub-336-cheon.pdf)
+
+* [**HOST 2023**] [**Bootstrapping**] FHE-Booster: Accelerating Fully Homomorphic Execution with Fine-tuned Bootstrapping Scheduling
+  >*White T, Gouert C, Yang C, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10132930)
 
 * [**TIFS 2023**] [**CNN**] Optimized Privacy-Preserving CNN Inference With Fully Homomorphic Encryption.
   >*DongWoo King et al.* [[Paper]](https://ieeexplore.ieee.org/document/10089847)
@@ -32,10 +44,6 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 * [**ISPASS 2023**] [**TFHE**] PyTFHE: An End-to-End Compilation and Execution Framework for Fully Homomorphic Encryption Applications.
 
   >*Jiaao Ma, Lisa Wu Wills et, al.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
-
-* [**ResearchGate 2023**] [**FHE**] PAF-FHE: Low-Cost Accurate Non-Polynomial Operator Polynomial Approximation in Fully Homomorphic Encryption Based ML Inference.
-
-  >*Dang J, Tong J, Golder A, et al.* [[Paper]](https://www.researchsquare.com/article/rs-2910088/v1)
 
 * [**Arxiv 2023**] [**FHE**] HyPHEN: A Hybrid Packing Method and Optimizations for Homomorphic Encryption-Based Neural Networks.
 
@@ -96,14 +104,14 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 * [**S&P 2021**] [**CKKS, FHEW, Bootstrapping**] PEGASUS: bridging polynomial and non-polynomial evaluations in homomorphic encryption
   >*Wenjie Lu,Yiping Ma et al.* [[Paper]](https://eprint.iacr.org/2020/1606.pdf)
 
+* [**Cryptology ePrint Archive 2021**] [**TFHE, BNN**] REDsec: Running encrypted discretized neural networks in seconds
+  >*Folkerts L, Gouert C, Tsoutsos N G.* [[Paper]](https://eprint.iacr.org/2021/1100.pdf)
+
 * [**EUROCRYPT 2021**] [**Bootstrapping, RNS-CKKS, Polynomial approximation**] High-Precision Bootstrapping of RNS-CKKS Homomorphic Encryption Using Optimal Minimax Polynomial Approximation and Inverse Sine Function
   >*Joon-Woo Lee* [[Paper]](https://eprint.iacr.org/2020/552.pdf)
 
 * [**TDSC 2021**] [**Polynomial approximation**] Minimax Approximation of Sign Function by Composite Polynomial for Homomorphic Comparison
   >*Eunsang Lee et al.* [[Paper]](https://ieeexplore.ieee.org/document/9517029)
-
-* [**ICLR 2021**] [**Polynomial approximation**] SAFENet: A Secure, Accurate and Fast Neural Network Inference
-  >*Qian Lou,Yinlin Shen et al.* [[Paper]](https://openreview.net/pdf?id=Cz3dbFm5u-)
 
 * [**CT-RSA 2020**] [**Bootstrapping**] Better Bootstrapping for Approximate Homomorphic Encryption
   >*Kyoohyung Han et al.* [[Paper]](https://eprint.iacr.org/2019/688.pdf)
@@ -142,7 +150,7 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 * [**IJCAI 2019**] [**BFV, BGV**] BAYHENN: Combining Bayesian Deep Learning and Homomorphic Encryption for Secure DNN Inference
   >*Peichen Xie,Guangyu Sun et al.* [[Paper]](https://arxiv.org/pdf/1906.00639.pdf)
 
-* [**PLDI 2019**] [**FHE**] CHET: An Optimizing Compiler for Fully-Homomorphic Neural-Network Inferencing.
+* [**PLDI 2019**] [**Compiler, FHE**] CHET: An Optimizing Compiler for Fully-Homomorphic Neural-Network Inferencing.
 
   >*Roshan D, Olli S, Todd M, et al.* [[Paper]](https://www.cs.utexas.edu/~roshan/CHET.pdf) 
 
@@ -239,9 +247,28 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 
 ## **System Designs** for Homomorphic Encryption
 
+* [**ArXiv 2024**] [**FHE**] Taiyi: A high-performance CKKS accelerator for Practical Fully Homomorphic Encryption
+  >*Fan S, Deng X, Tian Z, et al.* [[Paper]](https://arxiv.org/pdf/2403.10188.pdf)
+
 * [**Cryptology ePrint Archive 2024**] [**AHE**] Application-Aware Approximate Homomorphic Encryption:
 Configuring FHE for Practical Use
   >*Alexandru A, Al Badawi A, Micciancio D, et al.* [[Paper]](https://eprint.iacr.org/2024/203.pdf)
+
+* [**ArXiv 2023**] [**FHE**] TREBUCHET: Fully Homomorphic Encryption Accelerator for Deep Computation
+  >*Cousins D B, Polyakov Y, Badawi A A* [[Paper]](https://arxiv.org/ftp/arxiv/papers/2304/2304.05237.pdf)
+
+* [**TDSC 2023**] [**HE**] HEaaN-STAT: a privacy-preserving statistical analysis toolkit for large-scale numerical, ordinal, and categorical data
+  >*Lee Y, Seo J, Name Y, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10123977)
+
+* [**PLDI 2023**] [**Compiler**] HEaaN.MLIR: An Optimizing Compiler for Fast Ring-Based
+Homomorphic Encryption
+  >*Park S, Song W, Nam S, et al. HEaaN.* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3591228)
+
+* [**Cryptology ePrint Archive 2023**] [**Compiler**] HEIR: A Unified Representation for Cross-Scheme Compilation of Fully Homomorphic Computation
+  >*Bian S, Zhao Z, Zhang Z, et al.* [[Paper]](https://eprint.iacr.org/2023/1445.pdf)
+
+* [**ArXiv 2023**] [**FHE**] ArctyrEX: Accelerated Encrypted Execution of General-Purpose Applications
+  >*Gouert C, Joseph V, Dalton S, et al.* [[Paper]](https://arxiv.org/pdf/2306.11006.pdf)
 
 * [**ArXiv 2023**] [**TFHE, lookup-table**] TT-TFHE: a Torus Fully Homomorphic Encryption-Friendly Neural Network Architecture
   >*Adrien Benamira et al.* [[Paper]](https://arxiv.org/pdf/2302.01584.pdf)
@@ -386,6 +413,9 @@ Configuring FHE for Practical Use
 
 * [**Cryptology ePrint Archive 2024**] [**NTT, BGV**] Hardware Acceleration of the Prime-Factor and Rader NTT for BGV Fully Homomorphic Encryption
   >*Du Pont D, Bertels J, Turan F, et al.* [[Paper]](https://eprint.iacr.org/2024/217.pdf)
+
+* [**Cryptology ePrint Archive 2023**] [**CKKS，FPGA**] Aloha-HE: A Low-Area Hardware Accelerator for Client-Side Operations in Homomorphic Encryption
+  >*Krieger F, Hirner F, Mert A C, et al.* [[Paper]](https://eprint.iacr.org/2023/1736.pdf)
 
 * [**ArXiv 2023**] [**PIM, FHE**] FHEmem: A Processing In-Memory Accelerator for Fully Homomorphic Encryption
   >*Zhou M, Nam Y, Gangwar P, et al.* [[Paper]](https://arxiv.org/pdf/2311.16293.pdf)
@@ -611,6 +641,9 @@ Resizable Structure
 
 ---
 ## **Surveys and Performance Analysis** on Homomorphic Encryption
+
+* [**MICRO 2023**] [**Survey**] Fully Homomorphic Encryption for Computer Architects: A Fundamental Characterization Study
+  >*Pal S, Swaminathan K, Aharoni E, et al.* [[Paper]](https://disccworkshop.org/assets/pdfs/DISCC_2023_paper_5.pdf)
 
 * [**S&P 2023**] [**Survey**] SoK: Cryptographic Neural-Network Computation
   >*Lucien K. L. Ng，Sherman S. M. Chow et al. * [[Paper]](https://ieeexplore.ieee.org/document/10179483)
