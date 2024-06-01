@@ -11,6 +11,9 @@ Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), F
 ---
 ## **Algorithmic Acceleration** for PPML/PPNN
 
+* [**ArXiv 2024**] [**HE**] PrivCirNet: Efficient Private Inference via Block Circulant Transformation
+  >*Xu T, Wu L, Wang R, et al.* [[Paper]](https://arxiv.org/pdf/2405.14569)
+
 * [**ArXiv 2024**] [**Polynomial Approximation**] Neural Networks with (Low-Precision) Polynomial Approximations:
 New Insights and Techniques for Accuracy Improvement
   >*Zhang C, Au M H, Yiu S M.* [[Paper]](https://arxiv.org/pdf/2402.11224.pdf)
@@ -153,6 +156,15 @@ Efficient Oblivious Linear Computations
 
 ## **System Designs** for PPML/PPNN
 
+* [**ArXiv 2024**] [**HE, MPC**] Flash: A Hybrid Private Inference Protocol for Deep CNNs with High Accuracy and Low Latency on CPU
+  >*Roh H, Yeo J, Ko Y, et al.* [[Paper]](https://arxiv.org/abs/2401.16732)
+
+* [**ArXiv 2024**] [**HE, CNN**] UniHENN: Designing More Versatile Homomorphic Encryption-based CNNs without im2col
+  >*Choi H, Kim J, Kim S, et al.* [[Paper]](https://arxiv.org/abs/2402.03060)
+
+* [**AAAI 2024**] [**HE**] Blind-Touch: Homomorphic Encryption-Based Distributed Neural Network Inference for Privacy-Preserving Fingerprint Authentication
+  >*Choi H, Woo S S, Kim H.* [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/30200)
+
 * [**SP 2024**] [**MPC, Transformer**] BOLT: Privacy-Preserving, Accurate and Efficient Inference for Transformers
   >*Pang Q, Zhu J, Möllering H, et al.* [[Paper]](https://eprint.iacr.org/2023/1893.pdf)
 
@@ -280,7 +292,7 @@ Extraction Framework for Mobile Sensing
   >*Ng L K L, Chow S S M.* [[Paper]](https://www.usenix.org/conference/usenixsecurity21/presentation/ng)
 
 * [**TETC 2020**] [**GPU, HE, BFV**] Towards the AlexNet Moment for Homomorphic Encryption: HCNN, the First Homomorphic CNN on Encrypted Data With GPUs
-  >*Al Badawi A, Jin C, Lin J, et al. * [[Paper]](https://ieeexplore.ieee.org/abstract/document/9160866)
+  >*Al Badawi A, Jin C, Lin J, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9160866)
 
 ## **Network Architecture Optimizaiton** for PPML/PPNN
 
@@ -338,6 +350,9 @@ Architecture Search
 
 ## **Device-Edge-Cloud Collaboration** for PPML/PPNN
 
+* [**Frontiers in Electronics 2023**] [**HE, ASIC**] CoFHE: Software and hardware Co-design for FHE-based machine learning as a service
+  >*Zheng M, Ju L, Jiang L.* [[Paper]](https://www.frontiersin.org/articles/10.3389/felec.2022.1091369/full)
+
 * [**JSAC 2022**] [**Shamir Secret Share(MPC), Matrix-vector multiplication**] Privacy-Preserving Coded Mobile Edge Computing for Low-Latency Distributed Inference
   >*Schlegel R, Kumar S, Rosnes E, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9678363)
 
@@ -346,6 +361,9 @@ Architecture Search
 
 * [**TSNE 2022**] [**MPC**] PCNNCEC: Efficient and Privacy-Preserving Convolutional Neural Network Inference Based on Cloud-Edge-Client Collaboration
   >*Wang J, He D, Castiglione A, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9782521)
+
+* [**DATE 2022**] [**HE, FPGA**] coxHE: A software-hardware co-design framework for FPGA acceleration of homomorphic computation
+  >*Han M, Zhu Y, Lou Q, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/9774559)
 
 
 
