@@ -11,6 +11,9 @@ Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), F
 ---
 ## **Algorithmic Acceleration** for PPML/PPNN
 
+* [**Cryptology ePrint Archive 2024**] [**Bootstrapping, BFV, BGV**] Relaxed Functional Bootstrapping: A New Perspective on BGV/BFV Bootstrapping
+  >*Liu Z, Wang Y.* [[Paper]](https://eprint.iacr.org/2024/172.pdf)
+
 * [**ArXiv 2024**] [**HE**] PrivCirNet: Efficient Private Inference via Block Circulant Transformation
   >*Xu T, Wu L, Wang R, et al.* [[Paper]](https://arxiv.org/pdf/2405.14569)
 
@@ -41,7 +44,7 @@ Network Private Inference
   >*Zhang Y, Chen D, Kundu S, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10247682/)
 
 * [**ArXiv 2023**] [**HE**] Sensitive tuning of large scale cnns for e2e secure prediction using homomorphic encryption
-  >** [[Paper]]()
+  >*Baruch M, Drucker N, Ezov G, et al.* [[Paper]](https://arxiv.org/pdf/2304.14836)
 
 * [**ArXiv 2023**] [**HE，CKKS**] Converting Transformers to Polynomial Form for Secure Inference Over Homomorphic Encryption
   >*Zimerman I, Baruch M, Drucker N, et al.* [[Paper]](https://arxiv.org/pdf/2311.08610.pdf)
@@ -156,6 +159,15 @@ Efficient Oblivious Linear Computations
 
 ## **System Designs** for PPML/PPNN
 
+* [**ArXiv 2024**] [**HE**] Privacy-Preserving Diffusion Model Using Homomorphic Encryption
+  >*Chen Y, Yan Q.* [[Paper]](https://arxiv.org/pdf/2403.05794)
+
+* [**TIFS 2024**] [**Mutual Information Autoencoder**] Approaching the Information-Theoretic Limit of Privacy Disclosure With Utility Guarantees
+  >*ang Q, Wang C, Yuan H, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10400514)
+
+* [**Cryptology ePrint Archive 2024**] [**HE, Transformer**] Low-Latency Linear Transformations with Small Key Transmission for Private Neural Network on Homomorphic Encryption
+  >*Min B S, Lee J W.* [[Paper]](https://eprint.iacr.org/2024/883.pdf)
+
 * [**ArXiv 2024**] [**HE, MPC**] Flash: A Hybrid Private Inference Protocol for Deep CNNs with High Accuracy and Low Latency on CPU
   >*Roh H, Yeo J, Ko Y, et al.* [[Paper]](https://arxiv.org/abs/2401.16732)
 
@@ -189,6 +201,10 @@ Efficient Oblivious Linear Computations
 * [**ArXiv 2024**] [**HE, MPC**] HEQuant: Marrying Homomorphic Encryption and Quantization for
 Communication-Efficient Private Inference
   >*Xu T, Li M, Wang R.* [[Paper]](https://arxiv.org/pdf/2401.15970.pdf)
+
+* [**HOST 2023**] [**Bootstrapping**] FHE-Booster: Accelerating Fully Homomorphic
+Execution with Fine-tuned Bootstrapping Scheduling
+  >*T. White, C. Gouert, C. Yang and N. G.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10132930)
 
 * [**Cryptology ePrint Archive 2023**] [**MPC, CNN**] FANNG-MPC: Framework for Artificial Neural Networks and Generic MPC
   >*Aaraj N, Aly A, Güneysu T, et al.* [[Paper]](https://eprint.iacr.org/2023/1918.pdf)
@@ -300,7 +316,7 @@ Extraction Framework for Mobile Sensing
   >*Luo J, Zhang Y, Zhang J, et al.* [[Paper]](https://arxiv.org/pdf/2401.00793.pdf)
 
 * [**ArXiv 2023**] [**MPC**] CompactTag: Minimizing Computation Overheads in Actively-Secure MPC for Deep Neural Networks
-  >** [[Paper]](https://arxiv.org/pdf/2311.04406.pdf)
+  >*Wang Y, Sarkar P, Koti N, et al.* [[Paper]](https://arxiv.org/pdf/2311.04406.pdf)
 
 * [**ICLR 2023**] [**MPC, Transformer**] MPCFORMER: FAST, PERFORMANT AND PRIVATE TRANSFORMER INFERENCE WITH MPC
   >*Li D, Shao R, Wang H, et al.* [[Paper]](https://arxiv.org/pdf/2211.01452.pdf)
@@ -368,6 +384,10 @@ Architecture Search
 
 
 ## **Surveys and Performance Analysis** on PPML/PPNN
+
+* [**MICRO 2023**] [**Survey**] Fully Homomorphic Encryption for Computer
+Architects: A Fundamental Characterization Study
+  >*Pal S, Swaminathan K, Aharoni E, et al.* [[Paper]](https://disccworkshop.org/assets/pdfs/DISCC_2023_paper_5.pdf)
 
 * [**ArXiv 2024**] [**Survey**] On Protecting the Data Privacy of Large Language Models (LLMs): A Survey
   >*Yan B, Li K, Xu M, et al.* [[Paper]](https://arxiv.org/pdf/2403.05156.pdf)
