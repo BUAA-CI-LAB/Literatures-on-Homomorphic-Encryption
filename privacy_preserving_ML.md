@@ -11,6 +11,15 @@ Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), F
 ---
 ## **Algorithmic Acceleration** for PPML/PPNN
 
+* [**ACNS 2024**] [**PPML, FHE**] Memory Efficient Privacy-Preserving Machine Learning Based on Homomorphic Encryption
+  >*Podschwadt R, Ghazvinian P, GhasemiGol M, et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-54773-7_13)
+
+* [**Journal of Cryptology 2024**] [**CKKS**] BLEACH: cleaning errors in discrete computations over CKKS
+  >*Drucker N, Moshkowich G, Pelleg T, et al.* [[Paper]](https://eprint.iacr.org/2022/1298.pdf)
+
+* [**MLSys 2024**] [**HE, Polynomial Approximation**] Accurate Low-Degree Polynomial Approximation of Non-polynomial Operators for Fast Private Inference in Homomorphic Encryption
+  >*Dang J, Tong J, Golder A, et al.* [[Paper]](https://proceedings.mlsys.org/paper_files/paper/2024/file/621d0fd41c720ab252e178b77c200d90-Paper-Conference.pdf)
+
 * [**Cryptology ePrint Archive 2024**] [**Bootstrapping, BFV, BGV**] Relaxed Functional Bootstrapping: A New Perspective on BGV/BFV Bootstrapping
   >*Liu Z, Wang Y.* [[Paper]](https://eprint.iacr.org/2024/172.pdf)
 
@@ -29,6 +38,61 @@ New Insights and Techniques for Accuracy Improvement
 
 * [**ArXiv 2024**] [**HE**] GuardML: Efficient Privacy-Preserving Machine Learning Services Through Hybrid Homomorphic Encryption
   >*Frimpong E, Nguyen K, Budzys M, et al.* [[Paper]](https://arxiv.org/pdf/2401.14840.pdf)
+
+* [**IEEE Access 2024**] [**Bootstrapping, NTT**] A Bootstrapping-Capable Configurable NTT Architecture for Fully Homomorphic Encryption
+  >*Mareta R, Satriawan A, Duong P N, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10496101)
+
+* [**Cryptography 2024**] [**HE, Polynomial Approximation**] An Efficient Homomorphic Argmax Approximation for Privacy-Preserving Neural Networks
+  >*Zhang P, Duan A, Lu H.* [[Paper]](https://www.mdpi.com/2410-387X/8/2/18)
+
+* [**ArXiv 2024**] [**Polynomial Approximation**] Batch-oriented Element-wise Approximate Activation for Privacy-Preserving Neural Networks
+  >*Zhang P, Duan A, Zou X, et al.* [[Paper]](https://arxiv.org/pdf/2403.10920)
+
+* [**Journal of Systems Architecture 2024**] [**ReLU Pruning**] DReP: Deep ReLU pruning for fast private inference
+  >*Hu P, Sun L, Hu C, et al.* [[Paper]](https://www.sciencedirect.com/science/article/pii/S1383762124000936)
+
+* [**ArXiv 2024**] [**LLM**] FastQuery: Communication-efficient Embedding Table Query for Private LLM Inference
+  >*Lin C, Xu T, Yang Z, et al.* [[Paper]](https://arxiv.org/pdf/2405.16241)
+
+* [**ArXiv 2024**] [**Quant**] EQO: Exploring Ultra-Efficient Private Inference with Winograd-Based Protocol and Quantization Co-Optimization
+  >*Zeng W, Xu T, Li M, et al.* [[Paper]](https://arxiv.org/pdf/2404.09404)
+
+* [**PLDI 2024**] [**Compiler**] A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption
+  >*Krastev A, Samardzic N, Langowski S, et al.* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3656382)
+
+* [**ESORICS 2023**] [**PPML**] Efficient Pruning for Machine Learning Under Homomorphic Encryption
+  >*Aharoni, E. et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-51482-1_11?fromPaywallRec=true)
+
+* [**ISPASS 2023**] [**Key-Switch**] CiFlow: Dataflow analysis and optimization of key switching for homomorphic encryption
+  >*Neda N, Ebel A, Reynwar B, et al.* [[Paper]](https://arxiv.org/pdf/2311.01598)
+
+* [**Cryptology ePrint Archive 2023**] [**RNS-CKKS, CNN**] High-Throughput Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Channel-By-Channel Packing
+  >*Cheon J H, Kang M, Kim T, et al.* [[Paper]](https://eprint.iacr.org/2023/632.pdf)
+
+* [**Journal of the Korea Institute of Information Security 2023**] [**FHE, Polynomial Approximation**] The Impact of Various Degrees of Composite Minimax ApproximatePolynomials on Convolutional Neural Networks over Fully HomomorphicEncryption
+  >*Lee J, No J S.* [[Paper]](https://koreascience.kr/article/JAKO202304562084769.pdf)
+
+* [**Cryptology ePrint Archive 2023**] [**FHE**] High-Throughput Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Channel-By-Channel Packing
+  >*Cheon J H, Kang M, Kim T, et al.* [[Paper]](https://eprint.iacr.org/2023/632.pdf)
+
+* [**ArXiv 2023**] [**HE**] Robust Representation Learning for Privacy-Preserving Machine Learning: A Multi-Objective Autoencoder Approach
+  >*Ouaari S, Ünal A B, Akgün M, et al.* [[Paper]](https://arxiv.org/pdf/2309.04427)
+
+* [**Applied Sciences 2023**] [**HE, CKKS**] Lhdnn: Maintaining high precision and low latency inference of deep neural networks on encrypted data
+  >*Qian J, Zhang P, Zhu H, et al.* [[Paper]](https://www.mdpi.com/2076-3417/13/8/4815)
+
+* [**ArXiv 2023**] [**FHE, Polynomial Approximation**] Optimizing layerwise polynomial approximation for efficient private inference on fully homomorphic encryption: a dynamic programming approach
+  >*Lee J, Lee E, Kim Y S, et al.* [[Paper]](https://arxiv.org/pdf/2310.10349)
+
+* [**ArXiv 2023**] [**Polynomial Approximation**] Regularized PolyKervNets: Optimizing Expressiveness and Efficiency for Private Inference in Deep Neural Networks
+  >*Aremu T.* [[Paper]](https://arxiv.org/pdf/2312.15229)
+
+* [**ArXiv 2023**] [**MPC, Polynomial Approximation**] Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions
+  >*Diaa A, Fenaux L, Humphries T, et al.* [[Paper]](https://www.usenix.org/system/files/sec24summer-prepub-373-diaa.pdf)
+
+* [**ArXiv 2023**] [**HE, CNN, Boostrapping**] NeuJeans: Private Neural Network Inference with Joint Optimization of
+Convolution and Bootstrapping
+  >*Ju J H, Park J, Kim J, et al.* [[Paper]](https://arxiv.org/pdf/2312.04356)
 
 * [**S&P 2023**] [**HE**] Poster: Packing-aware Pruning for Efficient Private Inference based on Homomorphic Encryption
   >*Ghazvinian P, Podschwadt R, Panzade P, et al.* [[Paper]](https://sp2023.ieee-security.org/downloads/SP23-posters/sp23-posters-paper35-final_version_2_page_abstract.pdf)
@@ -74,7 +138,7 @@ network inference
 * [**ArXiv 2023**] [**HE, CNN**] Hyena: Optimizing Homomorphically Encrypted Convolution for Private CNN Inference
   >*Roh H, Choi W S.* [[Paper]](https://arxiv.org/pdf/2311.12519.pdf)
 
-* [**ArXiv 2023**] [**HE, CNN**] HyPHEN: A Hybrid Packing Method and Optimizations for Homomorphic Encryption-Based Neural Networks
+* [**IEEE Access 2023**] [**HE, CNN**] HyPHEN: A Hybrid Packing Method and Optimizations for Homomorphic Encryption-Based Neural Networks
   >*Kim D, Park J, Kim J, et al.* [[Paper]](https://arxiv.org/pdf/2302.02407.pdf)
 
 * [**ICML 2023**] [**HE, Transfer Learning**] HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption
@@ -117,6 +181,9 @@ Efficient Oblivious Linear Computations
 
 * [**Euro S&P 2023**] [**MPC, Transformer**] Privformer: Privacy-preserving Transformer with MPC
   >*Akimoto Y, Fukuchi K, Akimoto Y, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10190506)
+
+* [**Nature Communications 2022**] [**HE**] Secure human action recognition by encrypted neural network inference
+  >*Kim M, Jiang X, Lauter K, et al.* [[Paper]](https://www.nature.com/articles/s41467-022-32168-5.pdf)
 
 * [**ICML 2022**] [**FHE, CKKS**] Low Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions
   >*Lee E, Lee J W, Lee J, et al.* [[Paper]](https://proceedings.mlr.press/v162/lee22e/lee22e.pdf)
@@ -165,7 +232,7 @@ Efficient Oblivious Linear Computations
 * [**TIFS 2024**] [**Mutual Information Autoencoder**] Approaching the Information-Theoretic Limit of Privacy Disclosure With Utility Guarantees
   >*ang Q, Wang C, Yuan H, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10400514)
 
-* [**Cryptology ePrint Archive 2024**] [**HE, Transformer**] Low-Latency Linear Transformations with Small Key Transmission for Private Neural Network on Homomorphic Encryption
+* [**Cryptology ePrint Archive 2024**] [**HE, CNN-Transformer,Rotation Reducation**] Low-Latency Linear Transformations with Small Key Transmission for Private Neural Network on Homomorphic Encryption
   >*Min B S, Lee J W.* [[Paper]](https://eprint.iacr.org/2024/883.pdf)
 
 * [**ArXiv 2024**] [**HE, MPC**] Flash: A Hybrid Private Inference Protocol for Deep CNNs with High Accuracy and Low Latency on CPU
@@ -201,6 +268,9 @@ Efficient Oblivious Linear Computations
 * [**ArXiv 2024**] [**HE, MPC**] HEQuant: Marrying Homomorphic Encryption and Quantization for
 Communication-Efficient Private Inference
   >*Xu T, Li M, Wang R.* [[Paper]](https://arxiv.org/pdf/2401.15970.pdf)
+
+* [**TIFS 2023**] [**MPC, FSS**] FastSecNet: An Efficient Cryptographic Framework for Private Neural Network Inference
+  >*Hao M, Li H, Chen H, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10081492)
 
 * [**HOST 2023**] [**Bootstrapping**] FHE-Booster: Accelerating Fully Homomorphic
 Execution with Fine-tuned Bootstrapping Scheduling
@@ -270,8 +340,23 @@ Systems of Deep Neural Network on Fully Homomorphic Encryption
 * [**ArXiv 2023**] [**MPC, Polynomial Approximation, LLM**] PUMA: SECURE INFERENCE OF LLAMA-7B IN FIVE MINUTES
   >*Dong Y, Lu W, Zheng Y, et al.* [[Paper]](https://arxiv.org/pdf/2307.12533.pdf)
 
+* [**ISPPASS 2023**] [**FHE**] PyTFHE: An End-to-End Compilation and Execution Framework for Fully Homomorphic Encryption Applications
+  >*Ma J, Xu C, Wills L W.* [[Paper]](https://www.entropy-xu.me/attaches/pytfhe-ispass2023.pdf)
+
+* [**TrustCom 2023**] [**HE**] Too Noisy, or Not Too Noisy? A Private Training in Machine Learning
+  >*Krzywiecki Ł, Zaborowski G, Zawada M.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10538865)
+
+* [**IEICE 2023**] [**Look-up Tables, HE**] Privacy Preserving Function Evaluation using Lookup Tables with Word-Wise FHE
+  >*LI R, YAMANA H.* [[Paper]](https://www.jstage.jst.go.jp/article/transfun/advpub/0/advpub_2023EAP1114/_pdf)
+
+* [**ArXiv 2023**] [**CNN, HE**] Training Large Scale Polynomial CNNs for E2E Inference over Homomorphic Encryption
+  >*Baruch M, Drucker N, Ezov G, et al.* [[Paper]](https://arxiv.org/pdf/2304.14836)
+
 * [**DAC 2023**] [**MPC, Polynomial Approximation, NAS**] PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment
   >*Peng H, Zhou S, Luo Y, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10247663)
+
+* [**TrustCom 2023**] [**MPC, GAN**] SecGAN: Honest-Majority Maliciously 3PC Framework for Privacy-Preserving Image Synthesis
+  >*Yang Y, Liu L, Fu S, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10538551)
 
 * [**TSC 2023**] [**MPC, GCN**] SecGNN: Privacy-Preserving Graph Neural Network Training and Inference as a Cloud Service
   >*S. Wang, Y. Zheng and X. Jia* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10035510)
@@ -291,6 +376,16 @@ Extraction Framework for Mobile Sensing
   >*Roshan D, Olli S, Todd M, et al.* [[Paper]](https://www.cs.utexas.edu/~roshan/CHET.pdf) 
 
 ## **Hardware Acceleration** for PPML/PPNN
+
+* [**ArXiv 2024**] [**GPU**] Cheddar: A Swift Fully Homomorphic Encryption Library for CUDA GPUs
+  >*Kim J, Choi W, Ahn J H.* [[Paper]](https://arxiv.org/pdf/2407.13055)
+
+* [**MICRO 2023**] [**GPU, FHE**] GME: GPU-based Microarchitectural Extensions to
+Accelerate Homomorphic Encryption
+  >*Shivdikar K, Bao Y, Agrawal R, et al.* [[Paper]](https://arxiv.org/pdf/2309.11001)
+
+* [**ISCA 2023**] [**CKKS**] SHARP: A Short-Word Hierarchical Accelerator for Robust and Practical Fully Homomorphic Encryption
+  >*Jongmin Kim et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3579371.3589053)
 
 * [**Cryptology ePrint Archive 2023**] [**GPU, MPC**] Force: Highly Efficient Four-Party Privacy-Preserving Machine Learning on GPU
   >*Dai T, Duan L, Jiang Y, et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-47748-5_18)
@@ -385,12 +480,15 @@ Architecture Search
 
 ## **Surveys and Performance Analysis** on PPML/PPNN
 
+* [**ArXiv 2024**] [**Survey**] On Protecting the Data Privacy of Large Language Models (LLMs): A Survey
+  >*Yan B, Li K, Xu M, et al.* [[Paper]](https://arxiv.org/pdf/2403.05156.pdf)
+
+* [**ArXiv 2023**] [**Survey**] Secure Data Computation Using Deep Learning and Homomorphic Encryption: A Survey
+  >*Al-Janabi A A, Al-Janabi S T F, Al-Khateeb B.* [[Paper]](https://openurl.ebsco.com/EPDB%3Agcd%3A4%3A17439556/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A169957642&crl=c)
+
 * [**MICRO 2023**] [**Survey**] Fully Homomorphic Encryption for Computer
 Architects: A Fundamental Characterization Study
   >*Pal S, Swaminathan K, Aharoni E, et al.* [[Paper]](https://disccworkshop.org/assets/pdfs/DISCC_2023_paper_5.pdf)
-
-* [**ArXiv 2024**] [**Survey**] On Protecting the Data Privacy of Large Language Models (LLMs): A Survey
-  >*Yan B, Li K, Xu M, et al.* [[Paper]](https://arxiv.org/pdf/2403.05156.pdf)
 
 * [**S&P 2023**] [**Survey**] SoK: Cryptographic Neural-Network Computation
   >*Lucien K. L. Ng，Sherman S. M. Chow et al.* [[Paper]](https://ieeexplore.ieee.org/document/10179483)

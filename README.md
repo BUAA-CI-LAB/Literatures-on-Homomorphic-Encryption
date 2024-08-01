@@ -19,8 +19,11 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 ---
 ## **Algorithmic Acceleration** for Homomorphic Encryption
 
-* [**Journal of Cryptology 2024**] [**CKKS**] BLEACH: cleaning errors in discrete computations over CKKS
-  >*Drucker N, Moshkowich G, Pelleg T, et al.* [[Paper]](https://eprint.iacr.org/2022/1298.pdf)
+* [**Cryptology ePrint Archive 2024**] [**Bootstrapping**] Relaxed Functional Bootstrapping: A New Perspective on BGV/BFV Bootstrapping
+  >*Liu Z, Wang Y.* [[Paper]](https://eprint.iacr.org/2024/172.pdf)
+
+* [**IEEE Access 2024**] [**Bootstrapping, NTT**] A Bootstrapping-Capable Configurable NTT Architecture for Fully Homomorphic Encryption
+  >*Mareta R, Satriawan A, Duong P N, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10496101)
 
 * [**Cryptology eprint 2024**] [**NTT**] Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration
   >*Kim A, Mert A C, Mukherjee A, et al.* [[Paper]](https://eprint.iacr.org/2024/314.pdf)
@@ -254,6 +257,10 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 Configuring FHE for Practical Use
   >*Alexandru A, Al Badawi A, Micciancio D, et al.* [[Paper]](https://eprint.iacr.org/2024/203.pdf)
 
+* [**MICRO 2023**] [**FHE**] MAD: Memory-Aware Design Techniques for Accelerating
+Fully Homomorphic Encryption
+  >*Agrawal R, De Castro L, Juvekar C, et al.* [[Paper]](https://dspace.mit.edu/bitstream/handle/1721.1/153275/3613424.3614302.pdf?sequence=1&isAllowed=y)
+
 * [**ArXiv 2023**] [**FHE**] TREBUCHET: Fully Homomorphic Encryption Accelerator for Deep Computation
   >*Cousins D B, Polyakov Y, Badawi A A* [[Paper]](https://arxiv.org/ftp/arxiv/papers/2304/2304.05237.pdf)
 
@@ -408,11 +415,18 @@ Homomorphic Encryption
 
 
 ## **Hardware Acceleration** for Homomorphic Encryption
+* [**ArXiv 2024**] [**GPU**] Cheddar: A Swift Fully Homomorphic Encryption Library for CUDA GPUs
+  >*Kim J, Choi W, Ahn J H.* [[Paper]](https://arxiv.org/pdf/2407.13055)
+
 * [**TDSC 2024**] [**GPU**] Phantom: A CUDA-Accelerated Word-Wise Homomorphic Encryption Library
   >*Yang H, Shen S, Dai W, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10428046)
 
 * [**Cryptology ePrint Archive 2024**] [**NTT, BGV**] Hardware Acceleration of the Prime-Factor and Rader NTT for BGV Fully Homomorphic Encryption
   >*Du Pont D, Bertels J, Turan F, et al.* [[Paper]](https://eprint.iacr.org/2024/217.pdf)
+
+* [**MICRO 2023**] [**GPU, HE**] GME: GPU-based Microarchitectural Extensions to
+Accelerate Homomorphic Encryption
+  >*Shivdikar K, Bao Y, Agrawal R, et al.* [[Paper]](https://arxiv.org/pdf/2309.11001)
 
 * [**Cryptology ePrint Archive 2023**] [**CKKS，FPGA**] Aloha-HE: A Low-Area Hardware Accelerator for Client-Side Operations in Homomorphic Encryption
   >*Krieger F, Hirner F, Mert A C, et al.* [[Paper]](https://eprint.iacr.org/2023/1736.pdf)
