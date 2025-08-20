@@ -78,6 +78,10 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 
   >*Yongwoo L,  Joon-Woo L, Young K, et al.* [[Paper]](https://iacr.org/submit/files/slides/2022/eurocrypt/eurocrypt2022/239/slides.pdf) 
 
+* [**ACNS 2021**] [**RLWE, LWE**] Efficient Homomorphic Conversion
+Between (Ring) LWE Ciphertexts
+  >*Chen H, Dai W, Kim M, et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-78372-3_18)
+
 * [**DATE 2021**] [**BFV**] Real-time Private Membership Test using Homomorphic Encryption.
 
   >*Eduardo Chielle, Homer Gamil, Michail Maniatakos.* [[Paper]](https://ieeexplore.ieee.org/document/9473968/)
