@@ -10,8 +10,26 @@ Papers for PPML and PPNN: MPC-based, HE-based, DP-based(Differential Privacy), F
 
 ---
 ## **Algorithmic Acceleration** for PPML/PPNN
+* [**Cybersecurity 2025**] [**HE**] MAT-FHE: arbitrary dimension matrix multiplication scheme for floating point over fully homomorphic encryption
+  >*Yang Y, Li Z, Ding Y, et al.* [[Paper]](https://link.springer.com/content/pdf/10.1186/s42400-024-00303-y.pdf)
+
+* [**DAC 2025**] [**HE, LLM**] FastQuery: Communication-efficient Embedding Table Query for Private LLMs inference
+  >*Lin C, Xu T, Yang Z, et al.* [[Paper]](https://arxiv.org/pdf/2405.16241?)
+
+* [**Cryptology ePrint Archive 2025**] [****] Lodia: Towards Optimal Sparse Matrix-Vector Multiplication for Batched Fully Homomorphic Encryption
+  >*Yu J, Chen K, Fan X, et al.* [[Paper]](https://eprint.iacr.org/2025/1425.pdf)
+
 * [**TIT 2025**] [****] Private Inference in Quantized Models
   >*Deng Z, Ramkumar V, Bitar R, et al.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10896693)
+
+* [**Cryptology ePrint Archive 2025**] [**TFHE**] Parasol Compiler: Pushing the Boundaries of FHE Program Efficiency
+  >*Weber R, Orendorff R, Almashaqbeh G, et al.* [[Paper]](https://eprint.iacr.org/2025/1144.pdf)
+
+* [**Cryptology ePrint Archive 2024**] [**HE**] Carousel: Fully Homomorphic Encryption from Slot Blind Rotation Technique
+  >*Min S, Song Y.* [[Paper]](https://eprint.iacr.org/2024/2032.pdf)
+
+* [**ArXiv 2024**] [**CKKS, GCN**] FicGCN: Unveiling the Homomorphic Encryption Efficiency from Irregular Graph Convolutional Networks
+  >*Kan Z, Han H, Shi S, et al.* [[Paper]](https://arxiv.org/pdf/2506.10399)
 
 * [**CCS 2024**] [**CKKS, CNN, Boostrapping**] NeuJeans: Private Neural Network Inference with Joint Optimization of
 Convolution and Bootstrapping
@@ -75,6 +93,12 @@ New Insights and Techniques for Accuracy Improvement
 
 * [**PLDI 2024**] [**Compiler**] A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption
   >*Krastev A, Samardzic N, Langowski S, et al.* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3656382)
+
+* [**Journal of Crypyology 2023**] [**TFHE**] Parameter optimization and larger precision for (T) FHE
+  >*Mono J, Marcolla C, Land G, et al.* [[Paper]](https://eprint.iacr.org/2022/704.pdf)
+
+* [**AFRICACRYPT 2023**] [**BGV**] Finding and evaluating parameters for BGV
+  >*Mono J, Marcolla C, Land G, et al.* [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-37679-5_16)
 
 * [**TIFS 2023**] [**CKKS**] Optimized Privacy-Preserving CNN Inference With
 Fully Homomorphic Encryption
@@ -244,6 +268,8 @@ Efficient Oblivious Linear Computations
 * [**CVPR 2020**] [**HE**] ENSEI: Efficient Secure Inference via Frequency-Domain Homomorphic Convolution for Privacy-Preserving Visual Recognition
   >*Bian S, Wang T, Hiromoto M, et al.* [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Bian_ENSEI_Efficient_Secure_Inference_via_Frequency-Domain_Homomorphic_Convolution_for_Privacy-Preserving_CVPR_2020_paper.pdf)
 
+* [**CCS 2019**] [****] Efficient Multi-Key Homomorphic Encryption with Packed Ciphertexts with Application to Oblivious Neural Network Inference
+  >*Chen H, Dai W, Kim M, et al.* [[Paper]](https://dl.acm.org/doi/abs/10.1145/3319535.3363207)
 
 * [**ICML 2019**] [**HE**] Low Latency Privacy Preserving Inference
   >*Brutzkus A, Gilad-Bachrach R, Elisha O.* [[Paper]](https://proceedings.mlr.press/v97/brutzkus19a/brutzkus19a.pdf)
@@ -436,6 +462,13 @@ Extraction Framework for Mobile Sensing
   >*Roshan D, Olli S, Todd M, et al.* [[Paper]](https://www.cs.utexas.edu/~roshan/CHET.pdf) 
 
 ## **Hardware Acceleration** for PPML/PPNN
+* [**Cryptology ePrint Archive 2025**] [**TFHE, NTT**] FINAL bootstrap acceleration on FPGA using DSP-free constant-multiplier NTTs
+  >*Bertels J, Pereira H V L, Verbauwhede I.* [[Paper]](https://eprint.iacr.org/2025/137.pdf)
+
+* [**DATE 2025**] [**HE**] FLASH: An Efficient Hardware Accelerator Leveraging Approximate and Sparse FFT for Homomorphic Encryption
+  >*Zhang T, Xue Y, Liang L, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10992915)
+
+
 * [**DAC 2025**] [**CKKS, ASIC, FPGA**] Hypnos: Memory Efficient Homomorphic Processing Unit
   >*Wang H, Yang Y, Lu H, et al.* [[Paper]](https://luhang-hpu.github.io/files/Hypnos-DAC2025.pdf)
 
@@ -451,8 +484,18 @@ Extraction Framework for Mobile Sensing
 * [**ICML 2025**] [**GPU**] EncryptedLLM: Privacy-Preserving Large Language Model Inference via GPU-Accelerated Fully Homomorphic Encryption
   >*de Castro L, Escudero D, Agrawal A, et al.* [[Paper]](https://openreview.net/pdf?id=PGNff6H1TV)
 
+* [**TC 2024**] [**TFHE**] Juliet: A configurable processor for computing on encrypted data
+  >*Gouert C, Mouris D, Tsoutsos N G.* [[Paper]](https://par.nsf.gov/servlets/purl/10518989)
+
+* [**ISCA 2024**] [**CKKS, TFHE, FPGA**] HEAP: A Fully Homomorphic Encryption
+Accelerator with Parallelized Bootstrapping
+  >*Agrawal R, Chandrakasan A, Joshi A.* [[Paper]](https://bu-icsg.github.io/publications/2024/fhe_parallelized_bootstrapping_isca_2024.pdf)
+
 * [**ArXiv 2024**] [**GPU**] Cheddar: A Swift Fully Homomorphic Encryption Library for CUDA GPUs
   >*Kim J, Choi W, Ahn J H.* [[Paper]](https://arxiv.org/pdf/2407.13055)
+
+* [**HPCA 2023**] [**FPGA, FHE, Bootstrapping**] FAB: An FPGA-based accelerator for bootstrappable fully homomorphic encryption
+  >*Agrawal R, de Castro L, Yang G, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10070953)
 
 * [**MICRO 2023**] [**GPU, FHE**] GME: GPU-based Microarchitectural Extensions to
 Accelerate Homomorphic Encryption
@@ -560,6 +603,12 @@ Architecture Search
 
 
 ## **Surveys and Performance Analysis** on PPML/PPNN
+
+* [**ArXiv 2025**] [**Survey**] Towards Efficient Privacy-Preserving Machine Learning: A Systematic Review from Protocol, Model, and System Perspectives
+  >*Zeng W, Xu T, Chen Y, et al.* [[Paper]](https://arxiv.org/pdf/2507.14519)
+
+* [**ACM Computing Surveys**] [**Survey**] Sok: Fully homomorphic encryption accelerators
+  >*Zhang J, Cheng X, Yang L, et al.* [[Paper]](https://arxiv.org/pdf/2212.01713)
 
 * [**ArXiv 2024**] [**Survey**] On Protecting the Data Privacy of Large Language Models (LLMs): A Survey
   >*Yan B, Li K, Xu M, et al.* [[Paper]](https://arxiv.org/pdf/2403.05156.pdf)

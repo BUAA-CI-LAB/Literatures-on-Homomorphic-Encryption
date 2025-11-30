@@ -448,7 +448,7 @@ Resizable Structure
 * [**Cryptology ePrint Archive 2023**] [**NTT, RNS, FHE**] REED: Chiplet-Based Scalable Hardware Accelerator for Fully Homomorphic Encryption
   >*Aikata Aikata et al.* [[Paper]](https://eprint.iacr.org/2023/1190.pdf)
 
-* [**ISCA 2023**] [**CKKS**] SHARP: A Short-Word Hierarchical Accelerator for Robust and Practical Fully Homomorphic Encryption
+* [**ISCA 2023**] [**CKKS, ASIC**] SHARP: A Short-Word Hierarchical Accelerator for Robust and Practical Fully Homomorphic Encryption
   >*Jongmin Kim et al.* [[Paper]](https://dl.acm.org/doi/10.1145/3579371.3589053)
 
 * [**ISQED 2023**] [**CKKS,KS,NTT,RNS**] PriML: An Electro-Optical Accelerator for Private Machine Learning on Encrypted Data
