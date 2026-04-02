@@ -25,7 +25,7 @@ Click [here](./privacy_preserving_ML.md) to view papers for Privacy Preserving M
 * [**IEEE Access 2024**] [**Bootstrapping, NTT**] A Bootstrapping-Capable Configurable NTT Architecture for Fully Homomorphic Encryption
   >*Mareta R, Satriawan A, Duong P N, et al.* [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10496101)
 
-* [**Cryptology eprint 2024**] [**NTT**] Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration
+* [**Cryptology eprint Archive 2024**] [**NTT**] Exploring the Advantages and Challenges of Fermat NTT in FHE Acceleration
   >*Kim A, Mert A C, Mukherjee A, et al.* [[Paper]](https://eprint.iacr.org/2024/314.pdf)
 
 * [**Cryptology eprint Archive 2024**] [**FHE**] Application-Aware Approximate Homomorphic Encryption: Configuring FHE for Practical Use
@@ -253,6 +253,13 @@ Between (Ring) LWE Ciphertexts
 
 
 ## **System Designs** for Homomorphic Encryption
+
+* [**ASPLOS 2025**] [**CKKS, Compiler**] HALO: Loop-aware Bootstrapping Management for Fully Homomorphic Encryption
+  >*Cheon S, Lee Y, Youm H, et al.* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3669940.3707275)
+
+* [**ASPLOS 2025**] [**CKKS, Compiler**] ReSBM: Region-based Scale and Minimal-Level Bootstrapping Management for FHE via Min-Cut
+  >*Liu Y, Lai J, Li L, et al.* [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3669940.3707276)
+
 
 * [**ArXiv 2024**] [**FHE**] Taiyi: A high-performance CKKS accelerator for Practical Fully Homomorphic Encryption
   >*Fan S, Deng X, Tian Z, et al.* [[Paper]](https://arxiv.org/pdf/2403.10188.pdf)
